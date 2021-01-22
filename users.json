@@ -1,146 +1,122 @@
 [
-{
-  "model": "users.user",
-  "pk": "081326cc-3a46-453d-b96e-9f546bf1c057",
-  "fields": {
-    "password": "pbkdf2_sha256$216000$DcKaRTieILip$568zcJUL9aIiMuKqOaOhc6VXm59Y0S6t9oBPogvZpYY=",
-    "last_login": null,
-    "is_superuser": true,
-    "first_name": "",
-    "last_name": "",
-    "is_staff": true,
-    "is_active": true,
-    "date_joined": "2021-01-21T22:32:00.122Z",
-    "email": "hsiaolin@stanford.edu",
-    "require_password_change": false,
-    "groups": [],
-    "user_permissions": []
+  {
+    "model": "users.user",
+    "pk": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "fields": {
+      "password": "pbkdf2_sha256$216000$DcKaRTieILip$568zcJUL9aIiMuKqOaOhc6VXm59Y0S6t9oBPogvZpYY=",
+      "is_superuser": true,
+      "first_name": "",
+      "last_name": "",
+      "is_staff": true,
+      "is_active": true,
+      "email": "hsiaolin@stanford.edu",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": "446730b4-4d65-497c-b7e9-12a4fcee38d0",
+    "fields": {
+      "password": "pbkdf2_sha256$216000$g4MsOLo5Mw1U$YmjJCLWzUARLChgLDbuZB9hHoM4bzWr5w3/AVrPsABk=",
+      "is_superuser": true,
+      "first_name": "",
+      "last_name": "",
+      "is_staff": true,
+      "is_active": true,
+      "email": "simon.wiles@stanford.edu",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": "4f0fa430-c8c4-4637-b73a-828ae364844e",
+    "fields": {
+      "password": "pbkdf2_sha256$216000$eFJPtZhOMDLU$UhigOk4bsX59qCNoFPvUgxbCk7XntFe/W0Fd4Qk4Xjg=",
+      "is_superuser": true,
+      "first_name": "",
+      "last_name": "",
+      "is_staff": true,
+      "is_active": true,
+      "email": "chiam@stanford.edu",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": "66704a90-d078-45a7-8dde-88d0a8e1ccdb",
+    "fields": {
+      "password": "pbkdf2_sha256$216000$lqWVmhuRqHGm$wHFH6dEDTlgkFSeRa8jaQvHMIFDf6hBcuOvzSpBr6/E=",
+      "is_superuser": true,
+      "first_name": "",
+      "last_name": "",
+      "is_staff": true,
+      "is_active": true,
+      "email": "vijoy@stanford.edu",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": "720a063c-8546-4bee-bb67-7ddb90fb23b9",
+    "fields": {
+      "password": "pbkdf2_sha256$216000$h4qRcsBKrW7t$DjZSZW+R68A3F896MHoK2RP2VhLSaMNRwJzGcCBbWnc=",
+      "is_superuser": true,
+      "first_name": "",
+      "last_name": "",
+      "is_staff": true,
+      "is_active": true,
+      "email": "chao@colorado.edu",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": "dcff25f0-d527-415c-a241-37b1a4c5d04b",
+    "fields": {
+      "password": "pbkdf2_sha256$216000$Quc7r5sFMYOx$aiBz4TG04IlmFDTPtN49Hz38cxGs3ze+Mw2RePyf5UA=",
+      "is_superuser": true,
+      "first_name": "",
+      "last_name": "",
+      "is_staff": true,
+      "is_active": true,
+      "email": "broadwell@stanford.edu",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": "eb77ed76-e282-4150-8017-57c79fdbf346",
+    "fields": {
+      "password": "None",
+      "is_superuser": false,
+      "first_name": "",
+      "last_name": "",
+      "is_staff": false,
+      "is_active": false,
+      "email": "Wang, C. (2012)",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": "edfc670a-a3fb-4c26-b797-dc67a5fedbb6",
+    "fields": {
+      "password": "pbkdf2_sha256$216000$XRStr4qPsAp2$EzjvbwfYp8xCmH4snwcb9YwJ9B41P0yd3cclW7LYrGo=",
+      "is_superuser": true,
+      "first_name": "",
+      "last_name": "",
+      "is_staff": true,
+      "is_active": true,
+      "email": "gsolanof@stanford.edu",
+      "groups": [],
+      "user_permissions": []
+    }
   }
-},
-{
-  "model": "users.user",
-  "pk": "446730b4-4d65-497c-b7e9-12a4fcee38d0",
-  "fields": {
-    "password": "pbkdf2_sha256$216000$g4MsOLo5Mw1U$YmjJCLWzUARLChgLDbuZB9hHoM4bzWr5w3/AVrPsABk=",
-    "last_login": "2021-01-22T00:58:20.576Z",
-    "is_superuser": true,
-    "first_name": "",
-    "last_name": "",
-    "is_staff": true,
-    "is_active": true,
-    "date_joined": "2021-01-21T22:32:00.096Z",
-    "email": "simon.wiles@stanford.edu",
-    "require_password_change": false,
-    "groups": [],
-    "user_permissions": []
-  }
-},
-{
-  "model": "users.user",
-  "pk": "4f0fa430-c8c4-4637-b73a-828ae364844e",
-  "fields": {
-    "password": "pbkdf2_sha256$216000$eFJPtZhOMDLU$UhigOk4bsX59qCNoFPvUgxbCk7XntFe/W0Fd4Qk4Xjg=",
-    "last_login": null,
-    "is_superuser": true,
-    "first_name": "",
-    "last_name": "",
-    "is_staff": true,
-    "is_active": true,
-    "date_joined": "2021-01-21T22:32:00.114Z",
-    "email": "chiam@stanford.edu",
-    "require_password_change": false,
-    "groups": [],
-    "user_permissions": []
-  }
-},
-{
-  "model": "users.user",
-  "pk": "66704a90-d078-45a7-8dde-88d0a8e1ccdb",
-  "fields": {
-    "password": "pbkdf2_sha256$216000$lqWVmhuRqHGm$wHFH6dEDTlgkFSeRa8jaQvHMIFDf6hBcuOvzSpBr6/E=",
-    "last_login": null,
-    "is_superuser": true,
-    "first_name": "",
-    "last_name": "",
-    "is_staff": true,
-    "is_active": true,
-    "date_joined": "2021-01-21T22:32:00.107Z",
-    "email": "vijoy@stanford.edu",
-    "require_password_change": true,
-    "groups": [],
-    "user_permissions": []
-  }
-},
-{
-  "model": "users.user",
-  "pk": "720a063c-8546-4bee-bb67-7ddb90fb23b9",
-  "fields": {
-    "password": "pbkdf2_sha256$216000$h4qRcsBKrW7t$DjZSZW+R68A3F896MHoK2RP2VhLSaMNRwJzGcCBbWnc=",
-    "last_login": null,
-    "is_superuser": true,
-    "first_name": "",
-    "last_name": "",
-    "is_staff": true,
-    "is_active": true,
-    "date_joined": "2021-01-21T22:32:00.118Z",
-    "email": "chao@colorado.edu",
-    "require_password_change": true,
-    "groups": [],
-    "user_permissions": []
-  }
-},
-{
-  "model": "users.user",
-  "pk": "dcff25f0-d527-415c-a241-37b1a4c5d04b",
-  "fields": {
-    "password": "pbkdf2_sha256$216000$Quc7r5sFMYOx$aiBz4TG04IlmFDTPtN49Hz38cxGs3ze+Mw2RePyf5UA=",
-    "last_login": null,
-    "is_superuser": true,
-    "first_name": "",
-    "last_name": "",
-    "is_staff": true,
-    "is_active": true,
-    "date_joined": "2021-01-21T22:32:00.103Z",
-    "email": "broadwell@stanford.edu",
-    "require_password_change": false,
-    "groups": [],
-    "user_permissions": []
-  }
-},
-{
-  "model": "users.user",
-  "pk": "eb77ed76-e282-4150-8017-57c79fdbf346",
-  "fields": {
-    "password": "None",
-    "last_login": null,
-    "is_superuser": false,
-    "first_name": "",
-    "last_name": "",
-    "is_staff": false,
-    "is_active": false,
-    "date_joined": "2021-01-21T22:32:00.125Z",
-    "email": "Wang, C. (2012)",
-    "require_password_change": false,
-    "groups": [],
-    "user_permissions": []
-  }
-},
-{
-  "model": "users.user",
-  "pk": "edfc670a-a3fb-4c26-b797-dc67a5fedbb6",
-  "fields": {
-    "password": "pbkdf2_sha256$216000$XRStr4qPsAp2$EzjvbwfYp8xCmH4snwcb9YwJ9B41P0yd3cclW7LYrGo=",
-    "last_login": null,
-    "is_superuser": true,
-    "first_name": "",
-    "last_name": "",
-    "is_staff": true,
-    "is_active": true,
-    "date_joined": "2021-01-21T22:32:00.110Z",
-    "email": "gsolanof@stanford.edu",
-    "require_password_change": true,
-    "groups": [],
-    "user_permissions": []
-  }
-}
 ]
