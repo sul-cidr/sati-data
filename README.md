@@ -1,2 +1,3 @@
-# sati-docker-config
-Docker configuration for deploying the sul-cidr/sati application stack.
+# sati-data
+
+Repository for automated backup of the data for sati.stanford.edu.
