@@ -44,6 +44,7 @@ docker-compose \
 # sync Item assets
 rsync -avPh --delete --delete-excluded --exclude .gitignore "${MEDIA_DIR}" "${BACKUP_DIR}";
 
-
+# Commit and push changes
+cd "${BACKUP_DIR}";
 git commit -am "Update $(date +%F)";
 git push origin;
