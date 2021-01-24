@@ -15,7 +15,7 @@ function absdir { cd "$1" && pwd -P; }
 BACKUP_DIR=${BACKUP_DIR:=$(absdir "${BASH_SOURCE%/*}")};
 MEDIA_DIR=${MEDIA_DIR:=$(absdir "${BACKUP_DIR}/../sati/media")};
 COMPOSE_PROJ_DIR=${COMPOSE_PROJ_DIR:=$(absdir "${BACKUP_DIR}/../sati/")};
-COMPOSE_FILE=${COMPOSE_FILE:="${COMPOSE_PROJ_DIR}/docker-compose.yml"};
+COMPOSE_FILE=$(readlink -f "${COMPOSE_FILE:="${COMPOSE_PROJ_DIR}/docker-compose.yml"}");
 
 [ -d "${BACKUP_DIR}" ] || { echo "Backup dir ${BACKUP_DIR} does not exist!" >&2; exit 1; }
 [ -d "${MEDIA_DIR}" ] || { echo "Media dir ${MEDIA_DIR} does not exist!" >&2; exit 1; }
