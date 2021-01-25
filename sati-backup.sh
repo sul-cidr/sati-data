@@ -39,6 +39,7 @@ docker-compose \
   --project-directory "${COMPOSE_PROJ_DIR}" \
   --file "${COMPOSE_FILE}" \
   exec django python manage.py dumpdata --indent 2 items \
+  | tr -d "\r" \
   > "${BACKUP_DIR}/items.json";
 
 # sync Item assets
