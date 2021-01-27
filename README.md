@@ -16,6 +16,35 @@ $ docker-compose exec -T django python manage.py loaddata --format json - < /pat
 $ docker-compose exec -T django python manage.py loaddata --format json - < /path/to/items.json
 ```
 
+## `sati-backup.sh` Usage
+
+```
+Usage: sati-backup.sh [-q]
+
+  Backs up user data from the SATI application -- all the database data from the
+  Items and Users apps, as well as the uploaded item images -- and commits new or
+  modified data to GitHub.
+
+    -h          display this help and exit
+    -q          quiet operation; will only produce output in case of error
+                (intended for use from cron)
+
+
+Respects the following environment variables (the defaults are expected to be
+used in production).
+
+  BACKUP_DIR          Directory that contains the backup repo
+                       - defaults to this script's parent dir
+  COMPOSE_PROJ_DIR    Context directory for docker-compose
+                       - defaults to $BACKUP_DIR/../sati
+  COMPOSE_FILE        docker-compose configuration file
+                       - defaults to $COMPOSE_PROJ_DIR/docker-compose.yml
+  MEDIA_DIR           Directory that contains the item images (Django's MEDIA_ROOT)
+                       - defaults to $COMPOSE_PROJ_DIR/media
+  ENV_FILE            .env file passed both to docker-compose and to the containers
+                       - defaults to $COMPOSE_PROJ_DIR/.env
+```
+
 ## Installation
 
 To install this script and repository in a production environment, the following steps are necessary:
@@ -34,4 +63,4 @@ To install this script and repository in a production environment, the following
    @hourly  /path/to/repo/sati-backup.sh -q
    ```
 
-   Note that much of the configuration for the script can be set with environment variables (see `./sati-backup.sh -h`, but the default values are expected to be appropriate for production environments).
+   Note that much of the configuration for the script can be set with environment variables (see above), but the default values are expected to be appropriate for production environments.
