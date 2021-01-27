@@ -113,7 +113,7 @@ rsync -avPh ${quiet} --delete --delete-excluded --exclude .gitignore "${MEDIA_DI
 cd "${BACKUP_DIR}";
 
 log "Commiting changes";
-git commit ${quiet} -am "Update $(date +%F)";
+git commit ${quiet} -am "Update $(date +"%F, %-I%P %Z")";
 
 log "Pushing changes";
 git push ${quiet} origin;
