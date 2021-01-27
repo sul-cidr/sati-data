@@ -93,7 +93,7 @@ docker-compose \
   --env-file "${ENV_FILE}" \
   --project-directory "${COMPOSE_PROJ_DIR}" \
   --file "${COMPOSE_FILE}" \
-  exec django python manage.py dumpdata users \
+  exec -T django python manage.py dumpdata users \
   | jq "[.[] | {model, pk, fields: .fields | del(.date_joined, .last_login, .require_password_change)}]" \
   > "${BACKUP_DIR}/users.json";
 
@@ -102,7 +102,7 @@ docker-compose \
   --env-file "${ENV_FILE}" \
   --project-directory "${COMPOSE_PROJ_DIR}" \
   --file "${COMPOSE_FILE}" \
-  exec django python manage.py dumpdata --indent 2 items \
+  exec -T django python manage.py dumpdata --indent 2 items \
   | tr -d "\r" \
   > "${BACKUP_DIR}/items.json";
 
