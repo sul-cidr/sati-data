@@ -76,6 +76,21 @@
   },
   {
     "model": "users.user",
+    "pk": "b4794af0-7dff-45f5-95d7-42636f514418",
+    "fields": {
+      "password": "None",
+      "is_superuser": false,
+      "first_name": "",
+      "last_name": "",
+      "is_staff": false,
+      "is_active": false,
+      "email": "Co-Coding, Hsiaolin & Sal",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.user",
     "pk": "dcff25f0-d527-415c-a241-37b1a4c5d04b",
     "fields": {
       "password": "pbkdf2_sha256$216000$Quc7r5sFMYOx$aiBz4TG04IlmFDTPtN49Hz38cxGs3ze+Mw2RePyf5UA=",
