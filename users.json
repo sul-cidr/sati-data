@@ -16,6 +16,21 @@
   },
   {
     "model": "users.user",
+    "pk": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "fields": {
+      "password": "pbkdf2_sha256$216000$LsVersIxzXFr$Llm7eBQKCmbxRFCWbpQa26mCHFzPm0eejWlDVKmb96g=",
+      "is_superuser": true,
+      "first_name": "",
+      "last_name": "",
+      "is_staff": true,
+      "is_active": true,
+      "email": "salspina@stanford.edu",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.user",
     "pk": "446730b4-4d65-497c-b7e9-12a4fcee38d0",
     "fields": {
       "password": "pbkdf2_sha256$216000$g4MsOLo5Mw1U$YmjJCLWzUARLChgLDbuZB9hHoM4bzWr5w3/AVrPsABk=",
