@@ -18,7 +18,7 @@
     "model": "users.user",
     "pk": "336f4a6b-69d4-4f9f-914e-b717bae39905",
     "fields": {
-      "password": "pbkdf2_sha256$216000$LsVersIxzXFr$Llm7eBQKCmbxRFCWbpQa26mCHFzPm0eejWlDVKmb96g=",
+      "password": "pbkdf2_sha256$216000$RY1BfKgNMOVO$Ry0TuqW1GDLsS5Li1dHKf+BDFxFahOpzDhE6pcO7UVU=",
       "is_superuser": true,
       "first_name": "",
       "last_name": "",
