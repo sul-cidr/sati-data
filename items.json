@@ -1,5 +1,16 @@
 [
 {
+  "model": "items.test",
+  "pk": 1,
+  "fields": {
+    "name": "California Standards Test",
+    "year": 2008,
+    "source_url": "",
+    "grade_level": 8,
+    "notes": ""
+  }
+},
+{
   "model": "items.item",
   "pk": "004e6867-e242-4fe6-ba93-ec8c3ad4e2f3",
   "fields": {
