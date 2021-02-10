@@ -723,6 +723,26 @@
 },
 {
   "model": "items.item",
+  "pk": "107b574a-6b31-47ac-bec1-13279751824d",
+  "fields": {
+    "submitted_at": "2021-02-10T20:59:03.986Z",
+    "modified_at": "2021-02-10T20:59:03.986Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-CHEM-2009-06",
+    "slug": "cst-chem-2009-06",
+    "name": "GOLD FOIL",
+    "test": 2,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "cst-chem-2009-06/GOLDFOIL.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "109edcda-18bc-4cf7-827e-6dae7cebed96",
   "fields": {
     "submitted_at": "2021-01-21T22:32:11.341Z",
@@ -1239,6 +1259,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-186\n\nTIMSS-LS-2003-S022235\nA girl has an idea that green plants need sand in the soil for healthy\ngrowth. In order to test her idea she uses two pots of plants. She sets up one\npot of plants as shown below.\n\na\nSunlight Y\n\n \n\nSand, soil, and water\n\nWhich ONE of the following should she use for the second pot of plants?\n\n \n\n \n\n) ©\nL a\nSunlight VY\n\nDark cupboard Dark cupboard\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nSand and water Sand, soil, and water Soil and water\n\n \n\n \n\n \n\n \n\n \n\n \n\nqe\nSunlight Sunlight\n\n  \n\nSand and soil Soil and water"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "213e8b9b-5471-43a0-9cbc-4ec887450da1",
+  "fields": {
+    "submitted_at": "2021-02-10T20:49:13.892Z",
+    "modified_at": "2021-02-10T20:49:13.892Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-CHEM-2009-04",
+    "slug": "cst-chem-2009-04",
+    "name": "IODINE",
+    "test": 2,
+    "language": "EN",
+    "format": "[\"MC\", \"FB\"]",
+    "content_area": "PS",
+    "main_image": "cst-chem-2009-04/IODINE.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -2223,6 +2263,26 @@
 },
 {
   "model": "items.item",
+  "pk": "448b7058-0592-42de-9d20-a34fc5fd7981",
+  "fields": {
+    "submitted_at": "2021-02-10T20:59:57.842Z",
+    "modified_at": "2021-02-10T20:59:57.842Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-CHEM-2009-07",
+    "slug": "cst-chem-2009-07",
+    "name": "ALPHA DECAY",
+    "test": 2,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "cst-chem-2009-07/ALPHADECAY.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "4492e703-5d34-4670-9d5c-d93df97ce19b",
   "fields": {
     "submitted_at": "2021-01-21T22:32:11.727Z",
@@ -2959,6 +3019,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-125-21\nSH-PS-2010-21\n\n三、作图题 (共9分》\n\n请在答题纸规定的位置上作答，作图题必须使用 2B 铅笔\n\n19.重为 20牛的物体静止在水平地面上，用力的图示法在图 0 中男出它所受的重力 G。\n20. 根据平面简成像特点，在图 11 中国出物体 AB 在平面镜 MN 中所成的像和也。\n\n21. 在图 12 中，标出磁感线方向、小磁针的太极和电源的正、负极。\nM\n\n \n\n委\nS        <一[一\n\nSS\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nNS\n\n \n\n \n\n \n\n \n\nSASAAAAAAARSAT\n\n \n\n \n\n电源\n图30                         图1                               图12\n\n \n\n响"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "584d4c24-4c80-4f40-b394-75ce6d9c6613",
+  "fields": {
+    "submitted_at": "2021-02-10T20:46:55.561Z",
+    "modified_at": "2021-02-10T20:46:55.561Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-CHEM-2009-02",
+    "slug": "cst-chem-2009-02",
+    "name": "ELEMENTS",
+    "test": 2,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "cst-chem-2009-02/ELEMENTS.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -5959,6 +6039,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-087\nTJ-PS-2010-21\n\n21. 如图13 所示，免子和乌龟在全程为 s 的赛跑中，免子跑到树下用时己，树下睡觉用时 .醒后跑完剩下的路程用时小免子跑完全\n\n程的平均速度是            : 团体赛中, 乌龟驮着免子水中游，免子背着乌龟地上跑，实现了双赢。免子在乌龟背上说:“我是静止\n的，又可以悠闲的睡铅了!”免子说自己是静止的是以      为参照物的\n\n           称          弗\n\n|          民"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "ad3d9f6d-48c6-4c52-9eb0-54654cefb28f",
+  "fields": {
+    "submitted_at": "2021-02-10T20:58:25.320Z",
+    "modified_at": "2021-02-10T20:58:25.320Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-CHEM-2009-05",
+    "slug": "cst-chem-2009-05",
+    "name": "ALKALI",
+    "test": 2,
+    "language": "EN",
+    "format": "[\"MC\", \"FB\"]",
+    "content_area": "PS",
+    "main_image": "cst-chem-2009-05/ALKALI.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
