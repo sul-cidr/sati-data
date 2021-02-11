@@ -1805,6 +1805,26 @@
 },
 {
   "model": "items.item",
+  "pk": "29626523-db95-45b6-822d-c149df9c7ed7",
+  "fields": {
+    "submitted_at": "2021-02-11T07:31:28.808Z",
+    "modified_at": "2021-02-11T07:31:28.808Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-SCI-2009-G10-12",
+    "slug": "cst-sci-2009-g10-12",
+    "name": "HUMAN HEART",
+    "test": 4,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "LS",
+    "main_image": "cst-sci-2009-g10-12/HUMANHEART.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "29a4957b-101a-4eb3-ba0c-d9dd44462b9c",
   "fields": {
     "submitted_at": "2021-01-21T22:32:08.672Z",
@@ -2245,6 +2265,26 @@
 },
 {
   "model": "items.item",
+  "pk": "398acf88-5334-44f6-a326-63881be1e579",
+  "fields": {
+    "submitted_at": "2021-02-11T07:28:00.312Z",
+    "modified_at": "2021-02-11T07:28:00.312Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-SCI-2009-G10-08",
+    "slug": "cst-sci-2009-g10-08",
+    "name": "DIETS",
+    "test": 4,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "LS",
+    "main_image": "cst-sci-2009-g10-08/DIETS.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "3993d91b-ff2a-43be-b967-51a8d226c73f",
   "fields": {
     "submitted_at": "2021-01-21T22:32:08.548Z",
@@ -2281,6 +2321,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-354\nNY-LS-2009-73\n\n73 The diagram below shows four organisms.\n\ni\n\nBird Green Plant Shark Mushroom (fungus)\n\n \n\n(Not drawn to scale)\n\nWhich two organisms above belong to the same kingdom? [1]\n\n(1)\n\n \n\n(2)"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "3aa28647-d340-4dfd-832e-6f587924973d",
+  "fields": {
+    "submitted_at": "2021-02-11T07:22:44.514Z",
+    "modified_at": "2021-02-11T07:22:44.514Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-SCI-2009-G10-03",
+    "slug": "cst-sci-2009-g10-03",
+    "name": "GAMETE",
+    "test": 4,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "LS",
+    "main_image": "cst-sci-2009-g10-03/GAMETE.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -2481,6 +2541,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-337\nNY-LS-2009-40\n\n40 The diagram below shows a rabbit population at two different times.\n\n \n\nbb\n\nJanuary 2004\n\n \n\n \n\nbhhhbhhhh\n\nNovember 2004\n\nKey\n\n \n\n \n\n \n\nt = 10 rabbits\n\n \n\nWhich environmental factor may have contributed to the increase in the rabbit population?\n\n(1) decrease in resources\n(2) decrease in predators\n\n(3) increase in disease\n(4) increase in pollution"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "3fe63604-ce57-48ed-9fff-ddfb40e82a0e",
+  "fields": {
+    "submitted_at": "2021-02-11T07:26:28.287Z",
+    "modified_at": "2021-02-11T07:26:28.287Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-SCI-2009-G10-07",
+    "slug": "cst-sci-2009-g10-07",
+    "name": "EARLOBES",
+    "test": 4,
+    "language": "EN",
+    "format": "[\"MC\", \"FB\"]",
+    "content_area": "LS",
+    "main_image": "cst-sci-2009-g10-07/EARLOBES.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -2965,6 +3045,26 @@
 },
 {
   "model": "items.item",
+  "pk": "4b1f32d0-3065-4663-86b9-332e1b13631c",
+  "fields": {
+    "submitted_at": "2021-02-11T07:36:20.744Z",
+    "modified_at": "2021-02-11T07:36:20.744Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-SCI-2009-G5-01",
+    "slug": "cst-sci-2009-g5-01",
+    "name": "ELECTRIC CIRCUT",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "LS",
+    "main_image": "cst-sci-2009-g5-01/ELECTRICCIRCUT.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "4bf3c0a2-bcc0-4ddf-aef1-64aaa06f671c",
   "fields": {
     "submitted_at": "2021-02-10T21:20:53.888Z",
@@ -3321,6 +3421,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-033\nBJ-PS-2010-30(1/2)\n\n30. 小8利用如图 16 所示的实锭器材探究平面镜成像的特点纪 请你解答以下问题:\n(1) 该交验采用注透明平板琉璃作为平面错，是为了胰确定二 _.，能比较 。\n《2) 该实验选择两个相同的蜡烛 4 和 3，是为了观察蜡烛 3 是否与蜡烛 4 所成的\n像        。"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "562a4c03-ecd1-4d92-9838-0e63297f002c",
+  "fields": {
+    "submitted_at": "2021-02-11T07:46:32.994Z",
+    "modified_at": "2021-02-11T07:46:32.994Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-SCI-2009-G5-02",
+    "slug": "cst-sci-2009-g5-02",
+    "name": "SALT WATER",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "cst-sci-2009-g5-02/SALTWATER.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -5705,6 +5825,26 @@
 },
 {
   "model": "items.item",
+  "pk": "947834d5-0b3a-424a-87de-9f012ea3656e",
+  "fields": {
+    "submitted_at": "2021-02-11T07:23:48.512Z",
+    "modified_at": "2021-02-11T07:23:48.512Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-SCI-2009-G10-04",
+    "slug": "cst-sci-2009-g10-04",
+    "name": "SIT UPS",
+    "test": 4,
+    "language": "EN",
+    "format": "[\"MC\", \"FB\"]",
+    "content_area": "LS",
+    "main_image": "cst-sci-2009-g10-04/SITUPS.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "94a95052-27ef-4c28-9f1b-f862317ab243",
   "fields": {
     "submitted_at": "2021-01-21T22:32:10.698Z",
@@ -6425,6 +6565,26 @@
 },
 {
   "model": "items.item",
+  "pk": "a70c4eca-2e84-4ca4-ab3c-d6104f289519",
+  "fields": {
+    "submitted_at": "2021-02-11T07:28:59.155Z",
+    "modified_at": "2021-02-11T07:28:59.155Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-SCI-2009-G10-09",
+    "slug": "cst-sci-2009-g10-09",
+    "name": "FOREST FOOD",
+    "test": 4,
+    "language": "EN",
+    "format": "[\"MC\", \"FB\"]",
+    "content_area": "LS",
+    "main_image": "cst-sci-2009-g10-09/FORESTFOOD.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "a7b0addc-d127-4b30-9910-d6b8719dcada",
   "fields": {
     "submitted_at": "2021-02-10T01:41:50.474Z",
@@ -6461,6 +6621,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-308\nNY-LS-2008-48\n\nBase your answers to questions 48 and 49 on the diagram below and on your knowledge of science. The\ndiagram shows information about the sexual reproduction and development of rabbits.\n\n \n\nOffspring\n\n(Not drawn to scale)\n\n48 Identify the process occurring at A. [1]\n\n \n\n49 Identify the process occurring at B. [1]"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "a93f9753-9655-48bb-8b46-67f189ae5f12",
+  "fields": {
+    "submitted_at": "2021-02-11T07:30:47.102Z",
+    "modified_at": "2021-02-11T07:30:47.102Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-SCI-2009-G10-11",
+    "slug": "cst-sci-2009-g10-11",
+    "name": "CROSS SECTION",
+    "test": 4,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "LS",
+    "main_image": "cst-sci-2009-g10-11/CROSSSECTION.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -7525,6 +7705,26 @@
 },
 {
   "model": "items.item",
+  "pk": "c7789f54-a8e6-48f8-8435-ed5149dac290",
+  "fields": {
+    "submitted_at": "2021-02-11T07:29:59.041Z",
+    "modified_at": "2021-02-11T07:29:59.041Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-SCI-2009-G10-10",
+    "slug": "cst-sci-2009-g10-10",
+    "name": "CARIBU POPULATION",
+    "test": 4,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "LS",
+    "main_image": "cst-sci-2009-g10-10/CARIBUPOPULATION.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "c7b666eb-efe1-41b5-a353-55398b76e573",
   "fields": {
     "submitted_at": "2021-01-21T22:32:11.098Z",
@@ -7785,6 +7985,26 @@
 },
 {
   "model": "items.item",
+  "pk": "cbf3373a-8846-4032-a1b5-96a77c7236df",
+  "fields": {
+    "submitted_at": "2021-02-11T07:25:37.900Z",
+    "modified_at": "2021-02-11T07:25:37.900Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-SCI-2009-G10-06",
+    "slug": "cst-sci-2009-g10-06",
+    "name": "FRIZZY",
+    "test": 4,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "LS",
+    "main_image": "cst-sci-2009-g10-06/FRIZZY.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "cd291a40-c61d-4cd4-9c7b-b1dcf77b0365",
   "fields": {
     "submitted_at": "2021-01-21T22:32:11.267Z",
@@ -7945,6 +8165,26 @@
 },
 {
   "model": "items.item",
+  "pk": "cebd3696-6d43-4cea-9fde-a1c5102f8317",
+  "fields": {
+    "submitted_at": "2021-02-11T07:17:44.250Z",
+    "modified_at": "2021-02-11T07:17:44.250Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-SCI-2009-G10-02",
+    "slug": "cst-sci-2009-g10-02",
+    "name": "MINERAL SUPPLIMENT",
+    "test": 4,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "LS",
+    "main_image": "cst-sci-2009-g10-02/MINERALSUPPLIMENT.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "d08a1b0e-03a5-42a1-8a51-cd45a4ee3c94",
   "fields": {
     "submitted_at": "2021-01-21T22:32:11.620Z",
@@ -8061,6 +8301,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-287\nNY-ES-2007-76\n\nBase your answers to questions 76 through 79 on the map below. The shaded portion of the map indicates\nareas of night and the unshaded portion indicates areas of daylight at a certain hour on December 21.\n\nE (er Pb L\n\n \n\nVe\n\n_ Arctic\nCircle\n\na\n\nff\n\n \n\n \n\nOK i\n(\n1g\nSeb |\nae\nAS,\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nLe #7\nAPO 4\nrl [TE e FT.\n: am sty : quator\n(. “py\n) aati : LS A oo\nQf q N\nL| Jar\nha LY\n. a\nie .\nwef ke pe eet | || Antaretic\ni Po sp rs Circle\nCpr J\n|\" lt i\"\nN\n\n \n\n76 Why is there more daylight shown on the map south of the equator? [1]\n\n \n\n \n\n77 Explain how the areas of daylight and night would be different if the map represented June 21 instead of\nDecember 21. [1]\n\n \n\n \n\n78 What type of coordinate system is represented by the horizontal and vertical lines shown on the map? [1]\n\n \n\n \n\n79 What causes the lighted portion on the map to move westward during the day represented? [1]"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "d4e325f0-0fad-41c3-816f-9ff940b9bb1c",
+  "fields": {
+    "submitted_at": "2021-02-11T07:24:58.698Z",
+    "modified_at": "2021-02-11T07:24:58.698Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-SCI-2009-G10-05",
+    "slug": "cst-sci-2009-g10-05",
+    "name": "PEA PLANT",
+    "test": 4,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "LS",
+    "main_image": "cst-sci-2009-g10-05/PEAPLANT.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
