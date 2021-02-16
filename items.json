@@ -785,6 +785,26 @@
 },
 {
   "model": "items.item",
+  "pk": "0d9fbbc1-6c9a-4e3f-b795-7ba940b6a337",
+  "fields": {
+    "submitted_at": "2021-02-16T21:02:06.140Z",
+    "modified_at": "2021-02-16T21:02:06.141Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-PHS-2009-22",
+    "slug": "cst-phs-2009-22",
+    "name": "MAGNETIC FIELD",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\", \"FB\"]",
+    "content_area": "PS",
+    "main_image": "cst-phs-2009-22/MAGNETICFIELD.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "0ebb47fc-1a11-434d-93db-6446dac34ba4",
   "fields": {
     "submitted_at": "2021-01-21T22:32:10.657Z",
@@ -1345,6 +1365,26 @@
 },
 {
   "model": "items.item",
+  "pk": "1a97a3f9-53f4-426d-9c71-6b19c5aa7ee2",
+  "fields": {
+    "submitted_at": "2021-02-16T21:27:23.691Z",
+    "modified_at": "2021-02-16T21:27:23.691Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-SCI-2009-G5-06",
+    "slug": "cst-sci-2009-g5-06",
+    "name": "BATTERY",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "cst-sci-2009-g5-06/BATTERY.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "1aa5b6e0-ffb1-41f7-a6cd-d1769abe2f1b",
   "fields": {
     "submitted_at": "2021-01-21T22:32:08.950Z",
@@ -1521,6 +1561,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-384\nTX-ES-2006-37\n\nSunlight\nT <_—\n\n7\n—_——\nS\n37 The diagram shows the orbit of the moon around Earth. Between which two points will the moon\nappear to change from a new moon to a quarter moon?\n\n{o}=\n\nA QandR\nB RandS\nC SandT\nD TandQ"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "20e713cb-d1e5-463c-b348-682ac5077a2e",
+  "fields": {
+    "submitted_at": "2021-02-16T21:03:34.682Z",
+    "modified_at": "2021-02-16T21:03:34.682Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-PHS-2009-25",
+    "slug": "cst-phs-2009-25",
+    "name": "2OHM",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "cst-phs-2009-25/2OHM.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -2045,6 +2105,46 @@
 },
 {
   "model": "items.item",
+  "pk": "2dc3f870-752f-45a7-b065-06d61acad290",
+  "fields": {
+    "submitted_at": "2021-02-16T21:38:30.242Z",
+    "modified_at": "2021-02-16T21:38:30.242Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-SCI-2009-G5-25",
+    "slug": "cst-sci-2009-g5-25",
+    "name": "BIRDS",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "ES",
+    "main_image": "cst-sci-2009-g5-25/BIRDS.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
+  "pk": "2dc72f5f-5b78-42a3-a307-78de72f008af",
+  "fields": {
+    "submitted_at": "2021-02-16T21:03:06.994Z",
+    "modified_at": "2021-02-16T21:03:06.994Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-PHS-2009-24",
+    "slug": "cst-phs-2009-24",
+    "name": "RESISTOR",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\", \"FB\"]",
+    "content_area": "PS",
+    "main_image": "cst-phs-2009-24/RESISTOR.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "2e0a577e-3837-41d8-8a67-0605b26d8538",
   "fields": {
     "submitted_at": "2021-01-21T22:32:09.970Z",
@@ -2201,6 +2301,46 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-110\nSH-L9-2008-25-3\n\n《3) 下面是小明家庭药箱中的两种药品说明书〈《有删节) ，请阅读并分析:\n\n \n\n \n\n头孢拉定胶囊使用说明书\n\n多酶片使用说明书\n\n \n\n药品名称 通用名: 头孢拉定胶喜\n\n适应症 适用于人敏感菌所致的急性咽\n炎、扁桃体炎、中耳炎、支气管炎和肺\n炎等呼吸道感染及皮肤软组织感染等\n\n用法与用量 口服; 一次0. 25一0. 5克\n(1一2粒) ，每6小时一次。\n\n禁忌症 对头孢菌素过敏者及有青霉素\n类药物过敏性休殉史者禁用本品。\n\n注意事项〈省略)\n\n有效期 二年。\n\n批准文号 国药准字XXXXXX\n\n \n\n \n\n药品名称 通用名: 多酶片\n\n功能与主治 助消化药。用于消化障碍和缺\n乏肯蛋白酶或病后消化机能减退引起的消\n化不民症。\n\n \n\n用法与用量 口服 一次2一3片，一日3次。\n注意事项\n\n不得咀嚼碎或口含。\n\n有效期 一年。\n\n批准文号 沪卫药准字 〈1995) 第XXXXXX号\n\n \n\nGD上面两种药品中哪一种适合\n\n上\nXE :\n\n \n\n包结合所学知识\n\n小明的病症?\n\n，谈谈观看药品说明书时应注意看清\n\n。该药品的口服剂量\n\n郧些内容?"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "333a3d4d-4955-438c-a859-522c980fc9f8",
+  "fields": {
+    "submitted_at": "2021-02-16T21:25:56.543Z",
+    "modified_at": "2021-02-16T21:25:56.543Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-SCI-2009-G5-03",
+    "slug": "cst-sci-2009-g5-03",
+    "name": "FOOD CHAIN",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\", \"FI\"]",
+    "content_area": "LS",
+    "main_image": "cst-sci-2009-g5-03/FOODCHAIN.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
+  "pk": "3441e202-b0eb-45b7-bc1a-cb101ac3eaa6",
+  "fields": {
+    "submitted_at": "2021-02-16T21:28:55.240Z",
+    "modified_at": "2021-02-16T21:28:55.240Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-SCI-2009-G5-09",
+    "slug": "cst-sci-2009-g5-09",
+    "name": "BALOON",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "cst-sci-2009-g5-09/BALOON.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -2445,6 +2585,26 @@
 },
 {
   "model": "items.item",
+  "pk": "3afa3f62-0230-4f46-b385-14545e4e7b10",
+  "fields": {
+    "submitted_at": "2021-02-16T21:04:44.558Z",
+    "modified_at": "2021-02-16T21:04:44.558Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-PHS-2009-27",
+    "slug": "cst-phs-2009-27",
+    "name": "DISSIPATED",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "cst-phs-2009-27/DISSIPATED.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "3b9db0d7-4573-4051-9d16-62b774124840",
   "fields": {
     "submitted_at": "2021-01-21T22:32:10.397Z",
@@ -2658,6 +2818,26 @@
     "format": "[\"MC\", \"FB\"]",
     "content_area": "LS",
     "main_image": "cst-sci-2009-g10-07/EARLOBES.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
+  "pk": "401ea0c0-a26f-44cd-af67-af7f0825e063",
+  "fields": {
+    "submitted_at": "2021-02-16T21:31:07.074Z",
+    "modified_at": "2021-02-16T21:31:07.075Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-SCI-2009-G5-13",
+    "slug": "cst-sci-2009-g5-13",
+    "name": "HARDNESS",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "cst-sci-2009-g5-13/HARDNESS.png",
     "requires_attention": true,
     "notes": "",
     "ocr_text": ""
@@ -3485,6 +3665,26 @@
 },
 {
   "model": "items.item",
+  "pk": "5167e923-7af2-417f-898f-e838af5d8e62",
+  "fields": {
+    "submitted_at": "2021-02-16T21:35:23.408Z",
+    "modified_at": "2021-02-16T21:35:23.408Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-SCI-2009-G5-20",
+    "slug": "cst-sci-2009-g5-20",
+    "name": "LANDSCAPE",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "ES",
+    "main_image": "cst-sci-2009-g5-20/LANDSCAPE.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "52f54f35-b9d8-4698-a6d2-c6071e9550f7",
   "fields": {
     "submitted_at": "2021-01-21T22:32:10.642Z",
@@ -4005,6 +4205,26 @@
 },
 {
   "model": "items.item",
+  "pk": "5d29850c-6356-450c-b081-d4d3130ea5c7",
+  "fields": {
+    "submitted_at": "2021-02-16T21:00:04.962Z",
+    "modified_at": "2021-02-16T21:00:04.962Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-PHS-2009-18",
+    "slug": "cst-phs-2009-18",
+    "name": "GRAVITY",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "cst-phs-2009-18/GRAVITY.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "5e441961-04d4-464e-b007-d796fa7cd44c",
   "fields": {
     "submitted_at": "2021-02-16T20:52:29.246Z",
@@ -4101,6 +4321,46 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-073\nTJ-LS-2009-24\n\n24.， 下面是一对基因在亲子间的传递图解，请回答 (8 分)\n\n \n\n \n\n《1) 写出上图中受精卵的基因组成\n《2) 诀定人类双眼度的基因 〈《A) 是显性基因，诀定单眼皮的基因 (a) 是隐性基因 。\n\n如果父母都是双眼皮，生了一个单眼皮的孩子，那么父亲的基因组成是        ，\n母亲的基因组成是         ，这个孩子的基因组成是        -"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "60f7c6b9-df19-4caf-b31a-13a5c949ea5c",
+  "fields": {
+    "submitted_at": "2021-02-16T21:39:21.269Z",
+    "modified_at": "2021-02-16T21:39:21.269Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-SCI-2009-G5-27",
+    "slug": "cst-sci-2009-g5-27",
+    "name": "ICE CREAM",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "cst-sci-2009-g5-27/ICECREAM.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
+  "pk": "612c667e-2792-44fc-95e0-a15f297c39eb",
+  "fields": {
+    "submitted_at": "2021-02-16T21:27:51.410Z",
+    "modified_at": "2021-02-16T21:27:51.410Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-SCI-2009-G5-07Q",
+    "slug": "cst-sci-2009-g5-07q",
+    "name": "ELECTRO",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\", \"FI\"]",
+    "content_area": "PS",
+    "main_image": "cst-sci-2009-g5-07q/ELECTRO.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -4325,6 +4585,26 @@
 },
 {
   "model": "items.item",
+  "pk": "68da2241-5dea-4130-aef3-7c7159576ff1",
+  "fields": {
+    "submitted_at": "2021-02-16T21:37:07.067Z",
+    "modified_at": "2021-02-16T21:37:07.067Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-SCI-2009-G5-22",
+    "slug": "cst-sci-2009-g5-22",
+    "name": "FERTILIZER",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "ES",
+    "main_image": "cst-sci-2009-g5-22/FERTILIZER.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "6a565a4f-42a4-4f38-b928-5b70a4a370e5",
   "fields": {
     "submitted_at": "2021-01-21T22:32:09.800Z",
@@ -4361,6 +4641,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-147\nCQ-PS-2010-18\n\n了\n\n18、老师常讲学物理要贴近生活，于是小红和小教对她们都喜欢吃的土豆感铅兴趣了，她们决定用不同的方法测出它的密度。\n《1) 实验过程中，小红在调节天平平衡时，发现\n\n指针在中央刻度线两边来回摆动，但偏向左侧的角度      身 血 相\n较太，要使天平恢复平衡，她应将平衡螺母          lg IF\n向“调节。天平平衡后，再测量土豆质量时，      半放风骨 款雪\n\n \n\n \n\n \n\n游码的位置和所用的硅码如图13 所示，则这块土豆的质量为\n小红将土豆完全浸没在水中测得这块土豆的体积为 230nml ，  司湖反所受的学力为\nJW土豆的密度约为   kgAm。《g取10NAkgy》\n\n《2) 小敏赁土豆虽能沉到水底，但在水里重土豆时感觉很轻的经验, 估计到土豆的密度比水大不了多少。于是从学校借来了一支\n密度计，并用食盐、水、太茶杯和密度计进行实验，也测出了土豆的密度。她的方法步骤是 :\n\nD"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "6be7c0c0-5688-40f2-b323-38f30958dae1",
+  "fields": {
+    "submitted_at": "2021-02-16T21:01:11.374Z",
+    "modified_at": "2021-02-16T21:01:11.374Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-PHS-2009-20",
+    "slug": "cst-phs-2009-20",
+    "name": "COLLISION",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "cst-phs-2009-20/COLLISION.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -4645,6 +4945,26 @@
 },
 {
   "model": "items.item",
+  "pk": "703230cd-69fb-473f-bb93-086e458cb004",
+  "fields": {
+    "submitted_at": "2021-02-16T21:32:48.081Z",
+    "modified_at": "2021-02-16T21:32:48.081Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-SCI-2009-G5-16",
+    "slug": "cst-sci-2009-g5-16",
+    "name": "SHADOW",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "ES",
+    "main_image": "cst-sci-2009-g5-16/SHADOW.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "707275b6-b151-4f16-8d5d-7fd3209c2fcb",
   "fields": {
     "submitted_at": "2021-01-21T22:32:10.828Z",
@@ -4765,6 +5085,26 @@
 },
 {
   "model": "items.item",
+  "pk": "72a00044-7f5f-4c7e-b8fd-aa5e32b2d54b",
+  "fields": {
+    "submitted_at": "2021-02-16T21:29:24.149Z",
+    "modified_at": "2021-02-16T21:29:24.149Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-SCI-2009-G5-10",
+    "slug": "cst-sci-2009-g5-10",
+    "name": "MOLECULE SUBSTANCE",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "cst-sci-2009-g5-10/MOLECULESUBSTANCE.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "72dcf1af-c397-4c57-a74c-bbef150f6f7c",
   "fields": {
     "submitted_at": "2021-01-21T22:32:08.865Z",
@@ -4841,6 +5181,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-256\nDC-PS-2009-01005618\n\nLeslie and Kevin need to move the two granite rocks shown below. The rocks are made of the\nsame kind of material.\n\n  \n\nRock A Rock B\n\nWhich of these statements best explains how the amount of force needed to move the two\nrocks will compare?\n\nF Rock A will require less force to move because it has a larger mass than Rock B.\n\nG Rock Awill require less force to move because it has a larger volume than Rock B.\nH_ Rock A will require more force to move because it has a larger mass than Rock B.\n\nJ Rock A will require more force to move because it has a larger volume than Rock B."
+  }
+},
+{
+  "model": "items.item",
+  "pk": "7403982a-5fb1-4aee-8821-d0941e00dfea",
+  "fields": {
+    "submitted_at": "2021-02-16T21:38:06.758Z",
+    "modified_at": "2021-02-16T21:38:06.758Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-SCI-2009-G5-24",
+    "slug": "cst-sci-2009-g5-24",
+    "name": "VOLUME",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "cst-sci-2009-g5-24/VOLUME.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -4965,6 +5325,26 @@
 },
 {
   "model": "items.item",
+  "pk": "78a4323b-8ff2-4451-b991-687701d5514e",
+  "fields": {
+    "submitted_at": "2021-02-16T21:35:46.787Z",
+    "modified_at": "2021-02-16T21:35:46.787Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-SCI-2009-G5-21",
+    "slug": "cst-sci-2009-g5-21",
+    "name": "XYLEM",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "ES",
+    "main_image": "cst-sci-2009-g5-21/XYLEM.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "78de0446-02ae-441f-90ef-10c81532e797",
   "fields": {
     "submitted_at": "2021-01-21T22:32:10.484Z",
@@ -5065,6 +5445,26 @@
 },
 {
   "model": "items.item",
+  "pk": "7b8015d5-95c6-4092-a484-9380c0b06c04",
+  "fields": {
+    "submitted_at": "2021-02-16T21:00:42.830Z",
+    "modified_at": "2021-02-16T21:00:42.830Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-PHS-2009-19",
+    "slug": "cst-phs-2009-19",
+    "name": "MOTION DETECTOR",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "cst-phs-2009-19/MOTIONDETECTOR.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "7ca0da6f-53d7-4ad9-8e3f-c1d655d0fbf8",
   "fields": {
     "submitted_at": "2021-01-21T22:32:08.584Z",
@@ -5141,6 +5541,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-391\nTX-LS-2006-41\n\n \n\n \n\nVariety 1 Variety 2 Variety3 Variety 4\n\n41 The picture above shows four varieties of the same species of grass that grow in a prairie ecosystem.\nWhich variety has the best chance of surviving a long period of dry weather?\nA Variety 1\nB Variety 2\nC Variety 3\nD Variety 4"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "7e03a2f0-dee1-49e0-8da6-adeecf776d23",
+  "fields": {
+    "submitted_at": "2021-02-16T21:39:52.421Z",
+    "modified_at": "2021-02-16T21:39:52.421Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-SCI-2009-G5-28",
+    "slug": "cst-sci-2009-g5-28",
+    "name": "HEART RATE",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "LS",
+    "main_image": "cst-sci-2009-g5-28/HEARTRATE.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -5885,6 +6305,26 @@
 },
 {
   "model": "items.item",
+  "pk": "8fbf407d-2b76-46d2-9de2-df1da1ab80d2",
+  "fields": {
+    "submitted_at": "2021-02-16T21:37:43.297Z",
+    "modified_at": "2021-02-16T21:37:43.297Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-SCI-2009-G5-23",
+    "slug": "cst-sci-2009-g5-23",
+    "name": "PHOTOSYNTHESIS",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "ES",
+    "main_image": "cst-sci-2009-g5-23/PHOTOSYNTHESIS.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "906a3ec1-0ab9-4c56-88b7-010201718c3b",
   "fields": {
     "submitted_at": "2021-01-21T22:32:11.049Z",
@@ -6165,6 +6605,46 @@
 },
 {
   "model": "items.item",
+  "pk": "96909f48-b24d-4a5d-aea1-5a08543b9fc3",
+  "fields": {
+    "submitted_at": "2021-02-16T21:30:19.603Z",
+    "modified_at": "2021-02-16T21:30:19.603Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-SCI-2009-G5-12",
+    "slug": "cst-sci-2009-g5-12",
+    "name": "SNAKES",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\", \"FB\"]",
+    "content_area": "LS",
+    "main_image": "cst-sci-2009-g5-12/SNAKES.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
+  "pk": "98061b7f-4fd1-4fca-b882-52554a20a44c",
+  "fields": {
+    "submitted_at": "2021-02-16T21:29:49.249Z",
+    "modified_at": "2021-02-16T21:29:49.249Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-SCI-2009-G5-11",
+    "slug": "cst-sci-2009-g5-11",
+    "name": "DECOMPOSER",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "LS",
+    "main_image": "cst-sci-2009-g5-11/DECOMPOSER.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "98255598-8b09-4229-a769-fc1aca984dcc",
   "fields": {
     "submitted_at": "2021-01-21T22:32:09.784Z",
@@ -6205,6 +6685,26 @@
 },
 {
   "model": "items.item",
+  "pk": "9a10bd6b-384b-482a-a101-6901aacf9a7a",
+  "fields": {
+    "submitted_at": "2021-02-16T21:07:52.934Z",
+    "modified_at": "2021-02-16T21:07:52.934Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-PHS-2009-30",
+    "slug": "cst-phs-2009-30",
+    "name": "CURRENT FLOW",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\", \"FI\"]",
+    "content_area": "PS",
+    "main_image": "cst-phs-2009-30/CURRENTFLOW.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "9a7516fb-b10e-4ddb-a175-9d21e442aad3",
   "fields": {
     "submitted_at": "2021-01-21T22:32:10.537Z",
@@ -6241,6 +6741,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-071\nTJ-LS-2009-22\n22. 下图为某生态系统的食物网简图，请据图回答 (6 分)\n\n条\n\n太                                    食物链。\n让   殉         (2) 请写出该食物网中最长的一条食物链\n\n \n\n和                                   《3)此食物网中, 度与兔的关系是"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "9aba7e67-c5de-4ca0-85b0-5761bc1d90d3",
+  "fields": {
+    "submitted_at": "2021-02-16T21:38:55.034Z",
+    "modified_at": "2021-02-16T21:38:55.034Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-SCI-2009-G5-26",
+    "slug": "cst-sci-2009-g5-26",
+    "name": "GRAND CANYON",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "ES",
+    "main_image": "cst-sci-2009-g5-26/GRANDCANYON.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -6605,6 +7125,26 @@
 },
 {
   "model": "items.item",
+  "pk": "a17d65f7-7aa7-4cc3-b520-b950b8024214",
+  "fields": {
+    "submitted_at": "2021-02-16T21:32:20.874Z",
+    "modified_at": "2021-02-16T21:32:20.874Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-SCI-2009-G5-15",
+    "slug": "cst-sci-2009-g5-15",
+    "name": "UNEVEN HEATING",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "ES",
+    "main_image": "cst-sci-2009-g5-15/UNEVENHEATING.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "a205dda4-d6ff-445c-830a-16398f0444a1",
   "fields": {
     "submitted_at": "2021-01-21T22:32:11.297Z",
@@ -6621,6 +7161,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-362\nNY-LS-2010-10\n\nBase your answers to questions 10 and 11 on the\n\ndiagram of a green plant below and on your knowl-\nedge of science. Four parts of the plant are labeled\nA, B,C, and D.\n\n \n\n10 Which part of the plant is directly involved in\nsexual reproduction?\n\n(1) A (3) Cc\n(2) B (4) D\n\n11 In which part of the plant does most photosyn-\nthesis occur?\n(1) A (3) Cc\n(2) B (4) D"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "a357c8f1-38ec-437e-9849-88b3fca96722",
+  "fields": {
+    "submitted_at": "2021-02-16T21:28:13.494Z",
+    "modified_at": "2021-02-16T21:28:13.494Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-SCI-2009-G5-08",
+    "slug": "cst-sci-2009-g5-08",
+    "name": "FOOD WEB",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "LS",
+    "main_image": "cst-sci-2009-g5-08/FOODWEB.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -6765,6 +7325,26 @@
 },
 {
   "model": "items.item",
+  "pk": "a6861bf5-baba-4bc3-9398-c886e26b7624",
+  "fields": {
+    "submitted_at": "2021-02-16T21:07:26.063Z",
+    "modified_at": "2021-02-16T21:07:26.063Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-PHS-2009-29",
+    "slug": "cst-phs-2009-29",
+    "name": "RELEASE",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\", \"FB\"]",
+    "content_area": "PS",
+    "main_image": "cst-phs-2009-29/RELEASE.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "a70c4eca-2e84-4ca4-ab3c-d6104f289519",
   "fields": {
     "submitted_at": "2021-02-11T07:28:59.155Z",
@@ -6798,6 +7378,26 @@
     "format": "[\"MC\"]",
     "content_area": "LS",
     "main_image": "cst-bio-2009-06/CROSSINGOVER.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
+  "pk": "a8d24cf4-1f0b-4f9d-afa3-690e01331f2a",
+  "fields": {
+    "submitted_at": "2021-02-16T21:34:04.114Z",
+    "modified_at": "2021-02-16T21:34:04.114Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-SCI-2009-G5-18",
+    "slug": "cst-sci-2009-g5-18",
+    "name": "CALIFORNIA",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\", \"FI\"]",
+    "content_area": "ES",
+    "main_image": "cst-sci-2009-g5-18/CALIFORNIA.png",
     "requires_attention": true,
     "notes": "",
     "ocr_text": ""
@@ -7305,6 +7905,26 @@
 },
 {
   "model": "items.item",
+  "pk": "b4ccd319-524a-444a-bb28-cfe503d425b3",
+  "fields": {
+    "submitted_at": "2021-02-16T21:26:54.757Z",
+    "modified_at": "2021-02-16T21:26:54.757Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-SCI-2009-G5-05",
+    "slug": "cst-sci-2009-g5-05",
+    "name": "MAGNETS",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "cst-sci-2009-g5-05/MAGNETS.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "b4f255b7-17e0-4776-a706-ab82b5c13914",
   "fields": {
     "submitted_at": "2021-01-21T22:32:08.912Z",
@@ -7525,6 +8145,46 @@
 },
 {
   "model": "items.item",
+  "pk": "bb2da094-0045-4986-a15d-264c7d6e1c5c",
+  "fields": {
+    "submitted_at": "2021-02-16T21:04:09.186Z",
+    "modified_at": "2021-02-16T21:04:09.186Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-PHS-2009-26",
+    "slug": "cst-phs-2009-26",
+    "name": "ROOM TEMP",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\", \"FI\"]",
+    "content_area": "PS",
+    "main_image": "cst-phs-2009-26/ROOMTEMP.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
+  "pk": "bc589959-12a7-4871-9e8a-6d52ef863b11",
+  "fields": {
+    "submitted_at": "2021-02-16T21:31:38.341Z",
+    "modified_at": "2021-02-16T21:31:38.341Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-SCI-2009-G5-14",
+    "slug": "cst-sci-2009-g5-14",
+    "name": "HIKE",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "LS",
+    "main_image": "cst-sci-2009-g5-14/HIKE.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "bc7002df-5139-455b-b638-8d114aad8452",
   "fields": {
     "submitted_at": "2021-01-21T22:32:08.448Z",
@@ -7721,6 +8381,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-260\nNY-LS-2007-11\n\n11 The diagram below shows information about the\nreproduction and development of a rabbit.\n\ne »\n‘\n“Or\n\n©\n\nOffspring\n\n(Not drawn to scale)\nWhich letter in the diagram represents fertiliza-\ntion?\n\n(1) A (3) C\n(2) B (4) D"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "c47e898e-240a-43a3-bcab-94e3328e7828",
+  "fields": {
+    "submitted_at": "2021-02-16T21:06:11.605Z",
+    "modified_at": "2021-02-16T21:06:11.605Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-PHS-2009-28",
+    "slug": "cst-phs-2009-28",
+    "name": "AMPERES",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "cst-phs-2009-28/AMPERES.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -8525,6 +9205,26 @@
 },
 {
   "model": "items.item",
+  "pk": "d2fbf579-49e9-42d6-9241-7f5602667561",
+  "fields": {
+    "submitted_at": "2021-02-16T21:02:36.646Z",
+    "modified_at": "2021-02-16T21:02:36.646Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-PHS-2009-23",
+    "slug": "cst-phs-2009-23",
+    "name": "STIRNG",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\", \"FI\"]",
+    "content_area": "PS",
+    "main_image": "cst-phs-2009-23/STRING.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "d34c3570-bb3c-436e-81c9-1e7ad9a155c6",
   "fields": {
     "submitted_at": "2021-01-21T22:32:10.681Z",
@@ -8661,6 +9361,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-405\nTX-ES-2009-21\n\nLT Pea\nC ( Pe,\n\n \n\n>» 3359000\n\n21 The series of pictures shows a view of the moon from the same position on Earth on different days of\none month. The pictures show that on certain nights the moon —\nA moves away from Earth\nB receives less light from Earth\nCis unlit as viewed from Earth\n\nD_ makes half a turn around Earth"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "d7c15226-10c9-4021-9f84-5ad767ce1aa2",
+  "fields": {
+    "submitted_at": "2021-02-16T21:34:27.382Z",
+    "modified_at": "2021-02-16T21:34:27.382Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-SCI-2009-G5-19",
+    "slug": "cst-sci-2009-g5-19",
+    "name": "PAPER",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "cst-sci-2009-g5-19/PAPER.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -9765,6 +10485,26 @@
 },
 {
   "model": "items.item",
+  "pk": "ef6b0ce4-2258-4d15-a9bb-f22ac65604ab",
+  "fields": {
+    "submitted_at": "2021-02-16T21:01:39.927Z",
+    "modified_at": "2021-02-16T21:01:39.927Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-PHS-2009-21",
+    "slug": "cst-phs-2009-21",
+    "name": "WAVE ENERGY",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "cst-phs-2009-21/WAVEENERGY.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "f0590045-0e43-4350-a9ee-d04450f47fec",
   "fields": {
     "submitted_at": "2021-02-10T21:00:46.226Z",
@@ -9965,6 +10705,26 @@
 },
 {
   "model": "items.item",
+  "pk": "f6402522-4597-4044-b978-48fb056821b6",
+  "fields": {
+    "submitted_at": "2021-02-16T21:33:34.060Z",
+    "modified_at": "2021-02-16T21:33:34.060Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-SCI-2009-G5-17",
+    "slug": "cst-sci-2009-g5-17",
+    "name": "SEA ARCH",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "ES",
+    "main_image": "cst-sci-2009-g5-17/SEAARCH.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "f64f60e5-e933-476d-87a5-917ef8cf1706",
   "fields": {
     "submitted_at": "2021-02-10T01:42:58.241Z",
@@ -10161,6 +10921,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-295\nNY-LS-2008-21\n\n21 Which process is shown in the diagram below?\n\n \n\n(Not drawn to scale)\n\n(1) evolution (3) photosynthesis\n(2) migration (4) metamorphosis"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "fc6d6f29-5341-49a8-9361-ba0ed8262321",
+  "fields": {
+    "submitted_at": "2021-02-16T21:26:26.924Z",
+    "modified_at": "2021-02-16T21:26:26.924Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "CST-SCI-2009-G5-04",
+    "slug": "cst-sci-2009-g5-04",
+    "name": "ELECTRICAL CIRCUT",
+    "test": null,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "cst-sci-2009-g5-04/ELECTRICALCIRCUT.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
