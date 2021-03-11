@@ -14,7 +14,7 @@
   "model": "items.test",
   "pk": 2,
   "fields": {
-    "name": "California Standards Test 2009",
+    "name": "California Standards Test",
     "year": 2009,
     "source_url": "",
     "grade_level": 12,
@@ -25,7 +25,7 @@
   "model": "items.test",
   "pk": 3,
   "fields": {
-    "name": "California Standards Test G8",
+    "name": "California Standards Test",
     "year": 2009,
     "source_url": "",
     "grade_level": 8,
@@ -36,7 +36,7 @@
   "model": "items.test",
   "pk": 4,
   "fields": {
-    "name": "California Standards Test G10",
+    "name": "California Standards Test",
     "year": 2009,
     "source_url": "",
     "grade_level": 10,
