@@ -44,6 +44,17 @@
   }
 },
 {
+  "model": "items.test",
+  "pk": 5,
+  "fields": {
+    "name": "MCAS",
+    "year": 2019,
+    "source_url": "https://www.doe.mass.edu/mcas/",
+    "grade_level": 8,
+    "notes": ""
+  }
+},
+{
   "model": "items.item",
   "pk": "001a2517-36a5-43e3-8e92-9d0e79cd12ba",
   "fields": {
@@ -321,6 +332,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-351\n\nNY-LS-2009-64\n\n64 The diagram below shows a cross section of a bean seed. Three parts of the seed are labeled.\n\nSeed coat\nCotyledon\n\nThe function of the cotyledon is to provide food for the embryo. Explain why the cotyledon is not needed\nonce the bean plant matures. [1]"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "06c0e909-7d45-4499-a748-44d908475006",
+  "fields": {
+    "submitted_at": "2021-03-12T04:53:39.930Z",
+    "modified_at": "2021-03-12T04:53:39.930Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-01",
+    "slug": "mcas-scitecheng-01",
+    "name": "Chesapeake Bay",
+    "test": 5,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "LS",
+    "main_image": "mcas-scitecheng-01/ChesapeakeBay.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -2945,6 +2976,26 @@
 },
 {
   "model": "items.item",
+  "pk": "41a48452-3604-42ac-b486-6f496119ab74",
+  "fields": {
+    "submitted_at": "2021-03-12T04:55:02.780Z",
+    "modified_at": "2021-03-12T04:55:02.780Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-02",
+    "slug": "mcas-scitecheng-02",
+    "name": "Sunlight",
+    "test": 5,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "ES",
+    "main_image": "mcas-scitecheng-02/Sunlight.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "41c07a28-f145-47e9-a712-a17dbfb99741",
   "fields": {
     "submitted_at": "2021-01-21T22:32:10.891Z",
@@ -4205,6 +4256,26 @@
 },
 {
   "model": "items.item",
+  "pk": "5c81855e-6d58-45e7-8078-44e5a181e791",
+  "fields": {
+    "submitted_at": "2021-03-12T04:57:58.466Z",
+    "modified_at": "2021-03-12T04:57:58.466Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-04",
+    "slug": "mcas-scitecheng-04",
+    "name": "Moon and Earth",
+    "test": 5,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "ES",
+    "main_image": "mcas-scitecheng-04/MoonandEarth.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "5d29850c-6356-450c-b081-d4d3130ea5c7",
   "fields": {
     "submitted_at": "2021-02-16T21:00:04.962Z",
@@ -4338,6 +4409,26 @@
     "format": "[\"MC\"]",
     "content_area": "PS",
     "main_image": "cst-sci-2009-g5-27/ICECREAM.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
+  "pk": "61040642-720c-4bd0-ae24-4869b734d099",
+  "fields": {
+    "submitted_at": "2021-03-12T04:56:11.008Z",
+    "modified_at": "2021-03-12T04:56:11.008Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-03",
+    "slug": "mcas-scitecheng-03",
+    "name": "Animal Cell",
+    "test": 5,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "LS",
+    "main_image": "mcas-scitecheng-03/AnimalCell.png",
     "requires_attention": true,
     "notes": "",
     "ocr_text": ""
@@ -5001,6 +5092,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-332\nNY-LS-2009-33\n\n33 The chart below identifies the function of several organs found in a jruman body system.\n\n \n\n \n\n \n\n \n\nOrgan Function\nnose moistens and filters air\nlungs gas exchange\ndiaphragm | muscle that controls air intake\n\n \n\n \n\n \n\n \n\nWhich human body system performs these functions?\n\n(1) skeletal (3) circulatory\n(2) digestive (4) respiratory"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "71b663d7-722a-4caa-babe-a3a6922e93be",
+  "fields": {
+    "submitted_at": "2021-03-12T04:58:44.130Z",
+    "modified_at": "2021-03-12T04:58:44.130Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-05",
+    "slug": "mcas-scitecheng-05",
+    "name": "Woodworking Table",
+    "test": 5,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "mcas-scitecheng-05/WoodworkingTable.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
