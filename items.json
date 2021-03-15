@@ -780,6 +780,26 @@
 },
 {
   "model": "items.item",
+  "pk": "0d12652b-81a1-46f4-98bd-4d0c8ebc85d8",
+  "fields": {
+    "submitted_at": "2021-03-15T04:53:16.442Z",
+    "modified_at": "2021-03-15T04:53:16.442Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-34",
+    "slug": "mcas-scitecheng-34",
+    "name": "Mice",
+    "test": 9,
+    "language": "EN",
+    "format": "[\"MC\", \"FI\"]",
+    "content_area": "LS",
+    "main_image": "mcas-scitecheng-34/Mice.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "0d15c8d2-a2a8-41c9-bc06-ddcfa00645ce",
   "fields": {
     "submitted_at": "2021-01-21T22:32:10.705Z",
@@ -2140,6 +2160,26 @@
 },
 {
   "model": "items.item",
+  "pk": "2a6b9bfc-4a95-4952-9dc6-3b4b67fada8c",
+  "fields": {
+    "submitted_at": "2021-03-15T04:59:38.848Z",
+    "modified_at": "2021-03-15T04:59:38.848Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-43",
+    "slug": "mcas-scitecheng-43",
+    "name": "Farm",
+    "test": 9,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "ES",
+    "main_image": "mcas-scitecheng-43/Farm.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "2afa0981-f098-4931-bdae-a1fda46e49f5",
   "fields": {
     "submitted_at": "2021-02-10T21:45:58.260Z",
@@ -2476,6 +2516,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-110\nSH-L9-2008-25-3\n\n《3) 下面是小明家庭药箱中的两种药品说明书〈《有删节) ，请阅读并分析:\n\n \n\n \n\n头孢拉定胶囊使用说明书\n\n多酶片使用说明书\n\n \n\n药品名称 通用名: 头孢拉定胶喜\n\n适应症 适用于人敏感菌所致的急性咽\n炎、扁桃体炎、中耳炎、支气管炎和肺\n炎等呼吸道感染及皮肤软组织感染等\n\n用法与用量 口服; 一次0. 25一0. 5克\n(1一2粒) ，每6小时一次。\n\n禁忌症 对头孢菌素过敏者及有青霉素\n类药物过敏性休殉史者禁用本品。\n\n注意事项〈省略)\n\n有效期 二年。\n\n批准文号 国药准字XXXXXX\n\n \n\n \n\n药品名称 通用名: 多酶片\n\n功能与主治 助消化药。用于消化障碍和缺\n乏肯蛋白酶或病后消化机能减退引起的消\n化不民症。\n\n \n\n用法与用量 口服 一次2一3片，一日3次。\n注意事项\n\n不得咀嚼碎或口含。\n\n有效期 一年。\n\n批准文号 沪卫药准字 〈1995) 第XXXXXX号\n\n \n\nGD上面两种药品中哪一种适合\n\n上\nXE :\n\n \n\n包结合所学知识\n\n小明的病症?\n\n，谈谈观看药品说明书时应注意看清\n\n。该药品的口服剂量\n\n郧些内容?"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "329b25be-e868-4340-a200-9b805086676d",
+  "fields": {
+    "submitted_at": "2021-03-15T04:55:27.185Z",
+    "modified_at": "2021-03-15T04:55:27.185Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-37",
+    "slug": "mcas-scitecheng-37",
+    "name": "Bike",
+    "test": 9,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "mcas-scitecheng-37/Bike.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -3580,6 +3640,26 @@
 },
 {
   "model": "items.item",
+  "pk": "47bc2f4a-1169-4cb5-b53b-1804be42f666",
+  "fields": {
+    "submitted_at": "2021-03-15T04:57:03.509Z",
+    "modified_at": "2021-03-15T04:57:03.509Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-39",
+    "slug": "mcas-scitecheng-39",
+    "name": "Earth",
+    "test": 9,
+    "language": "EN",
+    "format": "[\"MC\", \"FI\"]",
+    "content_area": "ES",
+    "main_image": "mcas-scitecheng-39/Earth.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "47c0c2c8-dd58-454a-9e03-0fdd51341f00",
   "fields": {
     "submitted_at": "2021-01-21T22:32:09.591Z",
@@ -3796,6 +3876,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-020\n\nBJ-PS-2010-9\n\n5.-图#所示的四个特态变化的实例中，属于液化的是\n\n    \n\n入天 机大成'浓入 。。 矶天 和|下碟光和。 天天 入|下在呆盾， 冯天 下二FE HE\n\n入            8           C           D\n图:"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "4cb4365b-ea09-4066-971f-874da0fe6dde",
+  "fields": {
+    "submitted_at": "2021-03-15T04:53:51.797Z",
+    "modified_at": "2021-03-15T04:53:51.797Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-35",
+    "slug": "mcas-scitecheng-35",
+    "name": "Eye",
+    "test": 9,
+    "language": "EN",
+    "format": "[\"MC\", \"FI\"]",
+    "content_area": "PS",
+    "main_image": "mcas-scitecheng-35/Eye.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -4073,6 +4173,26 @@
     "format": "[\"MC\"]",
     "content_area": "PS",
     "main_image": "mcas-physics-02/Cars.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
+  "pk": "514524ac-2096-4dc3-bb96-78d089496b66",
+  "fields": {
+    "submitted_at": "2021-03-15T04:58:22.492Z",
+    "modified_at": "2021-03-15T04:58:22.492Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-41",
+    "slug": "mcas-scitecheng-41",
+    "name": "Car",
+    "test": 9,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "mcas-scitecheng-41/Car.png",
     "requires_attention": true,
     "notes": "",
     "ocr_text": ""
@@ -4833,6 +4953,26 @@
     "format": "[\"MC\"]",
     "content_area": "PS",
     "main_image": "cst-phs-2009-05/HEATEDGAS.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
+  "pk": "5ed78ce2-0a8d-4d9d-a7d5-dd0da03b8f68",
+  "fields": {
+    "submitted_at": "2021-03-15T04:57:44.866Z",
+    "modified_at": "2021-03-15T04:57:44.866Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-40",
+    "slug": "mcas-scitecheng-40",
+    "name": "Regions",
+    "test": 9,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "ES",
+    "main_image": "mcas-scitecheng-40/Regions.png",
     "requires_attention": true,
     "notes": "",
     "ocr_text": ""
@@ -6640,6 +6780,26 @@
 },
 {
   "model": "items.item",
+  "pk": "826c7904-4d69-4976-848e-7eb73e19d498",
+  "fields": {
+    "submitted_at": "2021-03-15T04:56:25.301Z",
+    "modified_at": "2021-03-15T04:56:25.301Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-38",
+    "slug": "mcas-scitecheng-38",
+    "name": "Bell",
+    "test": 9,
+    "language": "EN",
+    "format": "[\"CR\"]",
+    "content_area": "PS",
+    "main_image": "mcas-scitecheng-38/Bell.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "8312bc26-79c2-4546-be67-0755076a1389",
   "fields": {
     "submitted_at": "2021-01-21T22:32:09.674Z",
@@ -7653,6 +7813,26 @@
     "format": "[\"MC\", \"FI\"]",
     "content_area": "PS",
     "main_image": "mcas-physics-10/FreeBody.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
+  "pk": "9a0e3c21-d290-46a8-a618-76485e2aaa12",
+  "fields": {
+    "submitted_at": "2021-03-15T04:54:43.007Z",
+    "modified_at": "2021-03-15T04:54:43.007Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-36",
+    "slug": "mcas-scitecheng-36",
+    "name": "Gulf of Mexico",
+    "test": 9,
+    "language": "EN",
+    "format": "[\"MC\", \"CR\"]",
+    "content_area": "ES",
+    "main_image": "mcas-scitecheng-36/GulfofMexico.png",
     "requires_attention": true,
     "notes": "",
     "ocr_text": ""
@@ -11276,6 +11456,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-273\nNY-ES-2007-45\n\n45 The map below shows the four major time zones in the continental United States.\n\n \n\nPacific Mountain Central Eastern\n11\n\na) 10K] v ()\n\n \n\n \n\n \n\n \n\n \n\n \n\nIf it is 9 a.m. in the Eastern Time Zone, what time is it in the Pacific Time Zone?\n\n(1) 3am. (3) 6 p.m.\n(2) 6am. (4) 9 p.m."
+  }
+},
+{
+  "model": "items.item",
+  "pk": "e38e6c3b-14c5-4d0c-9a82-046197927207",
+  "fields": {
+    "submitted_at": "2021-03-15T04:58:53.944Z",
+    "modified_at": "2021-03-15T04:58:53.944Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-42",
+    "slug": "mcas-scitecheng-42",
+    "name": "Fossils",
+    "test": 9,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "ES",
+    "main_image": "mcas-scitecheng-42/Fossils.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
