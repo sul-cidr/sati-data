@@ -99,6 +99,17 @@
   }
 },
 {
+  "model": "items.test",
+  "pk": 10,
+  "fields": {
+    "name": "MCAS Practice",
+    "year": 2020,
+    "source_url": "https://www.doe.mass.edu/mcas/",
+    "grade_level": 5,
+    "notes": ""
+  }
+},
+{
   "model": "items.item",
   "pk": "001a2517-36a5-43e3-8e92-9d0e79cd12ba",
   "fields": {
@@ -380,6 +391,26 @@
 },
 {
   "model": "items.item",
+  "pk": "064a8598-7965-4e64-8bf8-ca763c1911fe",
+  "fields": {
+    "submitted_at": "2021-03-15T05:04:29.753Z",
+    "modified_at": "2021-03-15T05:04:29.753Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-47",
+    "slug": "mcas-scitecheng-47",
+    "name": "Pacific Ocean",
+    "test": 10,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "ES",
+    "main_image": "mcas-scitecheng-47/PacificOcean.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "06c0e909-7d45-4499-a748-44d908475006",
   "fields": {
     "submitted_at": "2021-03-12T04:53:39.930Z",
@@ -613,6 +644,26 @@
     "format": "[\"MC\"]",
     "content_area": "PS",
     "main_image": "cst-sci-2009-g8-06/NONMETALS.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
+  "pk": "0a1def46-617c-4a3a-bdc1-f2f8da47029c",
+  "fields": {
+    "submitted_at": "2021-03-15T05:08:55.549Z",
+    "modified_at": "2021-03-15T05:08:55.549Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-49",
+    "slug": "mcas-scitecheng-49",
+    "name": "Tree",
+    "test": 10,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "ES",
+    "main_image": "mcas-scitecheng-49/Tree.png",
     "requires_attention": true,
     "notes": "",
     "ocr_text": ""
@@ -4980,6 +5031,26 @@
 },
 {
   "model": "items.item",
+  "pk": "5f18ae73-a9f1-4aca-952e-2a7184dee165",
+  "fields": {
+    "submitted_at": "2021-03-15T05:12:15.293Z",
+    "modified_at": "2021-03-15T05:12:15.293Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-52",
+    "slug": "mcas-scitecheng-52",
+    "name": "Decoration",
+    "test": 10,
+    "language": "EN",
+    "format": "[\"CR\"]",
+    "content_area": "PS",
+    "main_image": "mcas-scitecheng-52/Decoration.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "600251dd-058a-49eb-9ae9-4e40128b656c",
   "fields": {
     "submitted_at": "2021-01-21T22:32:10.027Z",
@@ -7280,6 +7351,26 @@
 },
 {
   "model": "items.item",
+  "pk": "8c771485-e5f4-430f-ac92-b2a764cde197",
+  "fields": {
+    "submitted_at": "2021-03-15T05:00:11.626Z",
+    "modified_at": "2021-03-15T05:00:11.626Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-44",
+    "slug": "mcas-scitecheng-44",
+    "name": "Water Filter",
+    "test": 9,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "ES",
+    "main_image": "mcas-scitecheng-44/WaterFilter.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "8d7a1e17-55e9-4c64-91b4-726aaf5952c3",
   "fields": {
     "submitted_at": "2021-01-21T22:32:09.511Z",
@@ -7296,6 +7387,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-140\nCQ-PS-2010-17\n\n17、芳芳自从学习电学知识后，对家里的用电器非常感兴趣，想自制一只人台灯，她去商店选购了一只标号是“36V 36W7” 人\n回到家后在着手实装时， 突然想起家庭电路的电压是 220V， 于是她在买回的灯泡和装合内寻找说明书， 但没有找到 ，却发现了一\n\n配件-\n《1) 芳芳想知道配件的作用及有关它的性能参数《如额定功率 、额定电流、电阻等) ，于是设计了如图 12 所示的电路图和记录数\n据的表格，请你根据电路图帮助他把实物图连接完整.注意在连接电路时开关 ，滑动变阻器要调到        的位置。\n\n人 的实验数据记录在下列表格中雹根据交验数据能够知道配件的性能参数是\n\n号 芝入利用 6 36W”的灯泡和配件制成了一只人台灯，请你在虚线框内画出这只人台灯的电路图,并说明配件在电路中所起的\n\n主要作用是什么\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n|\n配首\n切理全\n电压8V | -电流 [人\n均笋区效\n           932        005\n\n \n\n \n\n对       13.4     0.;\n3       363     02"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "8dff12c8-f990-473d-ae50-9bd6872aaff9",
+  "fields": {
+    "submitted_at": "2021-03-15T05:02:47.095Z",
+    "modified_at": "2021-03-15T05:02:47.095Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-45",
+    "slug": "mcas-scitecheng-45",
+    "name": "Life Stage",
+    "test": 10,
+    "language": "EN",
+    "format": "[\"MC\", \"FI\"]",
+    "content_area": "LS",
+    "main_image": "mcas-scitecheng-45/LifeStage.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -9680,6 +9791,26 @@
 },
 {
   "model": "items.item",
+  "pk": "c28a3536-1f4b-4946-bcef-e0c2e6377c9b",
+  "fields": {
+    "submitted_at": "2021-03-15T05:12:49.741Z",
+    "modified_at": "2021-03-15T05:12:49.741Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-53",
+    "slug": "mcas-scitecheng-53",
+    "name": "Compost",
+    "test": 10,
+    "language": "EN",
+    "format": "[\"CR\"]",
+    "content_area": "ES",
+    "main_image": "mcas-scitecheng-53/Compost.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "c3025bf1-7e8d-485f-b6ae-12ce494c84d1",
   "fields": {
     "submitted_at": "2021-03-15T02:16:48.788Z",
@@ -10340,6 +10471,26 @@
 },
 {
   "model": "items.item",
+  "pk": "cdfd9cbf-7169-4779-abea-917292bf6b01",
+  "fields": {
+    "submitted_at": "2021-03-15T05:10:57.494Z",
+    "modified_at": "2021-03-15T05:10:57.494Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-50",
+    "slug": "mcas-scitecheng-50",
+    "name": "Pulley",
+    "test": 10,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "mcas-scitecheng-50/Pulley.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "ce11163f-9c59-4952-bf68-38e5373f04ec",
   "fields": {
     "submitted_at": "2021-01-21T22:32:10.914Z",
@@ -10880,6 +11031,26 @@
 },
 {
   "model": "items.item",
+  "pk": "da46041f-1e37-4d59-a14e-1895ce6b3c18",
+  "fields": {
+    "submitted_at": "2021-03-15T05:11:37.396Z",
+    "modified_at": "2021-03-15T05:11:37.396Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-51",
+    "slug": "mcas-scitecheng-51",
+    "name": "Rock Layers",
+    "test": 10,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "ES",
+    "main_image": "mcas-scitecheng-51/RockLayers.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "da552e1b-a1f4-46bb-aa9a-dfca527eeaa0",
   "fields": {
     "submitted_at": "2021-01-21T22:32:08.502Z",
@@ -10996,6 +11167,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-137\n\nCQ-PS-2010-7\n\n7、将标有“6Y，6w”的灯L:和标有”6Y 3w2”的灯L:串联接入电路中，如图3，不考虑灯些电阻值随温度的变化，若闭合开关后，\nL:的实际功率为1.5 w，则世2 的实际功率和电源电压分别为 ;                                        《      )\n\n& 3w 127                    BE、6w 有蚜          一\n\nC、1i.5w 127                     D、swr 时\n\n \n\n二 填空作图题(将正确答案填在题中的横线上，每小题2分，共16分。\n(NOTE: 原图有标注图3)"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "dd935e56-be7f-476d-9e2d-0b0b1812e6e8",
+  "fields": {
+    "submitted_at": "2021-03-15T05:08:20.963Z",
+    "modified_at": "2021-03-15T05:08:20.963Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-48",
+    "slug": "mcas-scitecheng-48",
+    "name": "Food Web",
+    "test": 10,
+    "language": "EN",
+    "format": "[\"MC\", \"FI\"]",
+    "content_area": "LS",
+    "main_image": "mcas-scitecheng-48/FoodWeb.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -11840,6 +12031,26 @@
 },
 {
   "model": "items.item",
+  "pk": "eb795e2d-e563-46c2-91ec-5f6eb5878447",
+  "fields": {
+    "submitted_at": "2021-03-15T05:03:57.429Z",
+    "modified_at": "2021-03-15T05:03:57.429Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-46",
+    "slug": "mcas-scitecheng-46",
+    "name": "Model Car",
+    "test": 10,
+    "language": "EN",
+    "format": "[\"MC\", \"FI\"]",
+    "content_area": "PS",
+    "main_image": "mcas-scitecheng-46/ModelCar.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "ebb06f0d-b233-4796-88fc-2b5fded62281",
   "fields": {
     "submitted_at": "2021-02-10T21:04:11.628Z",
@@ -12416,6 +12627,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-291\nNY-LS-2008-8\n\n§ The drawing below represents a pair of chromo-\nsomes.\n\n\\- Bands\n\nThe area labeled “bands” shows the location of\n\n(1) egg cells\n\n(2) sperm cells\n\n(3) reproductive hormones\n(4) specific genes"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "f748f54d-d63a-4222-b6af-7eb78fc119e8",
+  "fields": {
+    "submitted_at": "2021-03-15T05:13:34.085Z",
+    "modified_at": "2021-03-15T05:13:34.085Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-54",
+    "slug": "mcas-scitecheng-54",
+    "name": "Mass",
+    "test": 10,
+    "language": "EN",
+    "format": "[\"MC\", \"FI\"]",
+    "content_area": "PS",
+    "main_image": "mcas-scitecheng-54/Mass.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
