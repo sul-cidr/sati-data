@@ -12734,7 +12734,7 @@
   "pk": "f6f2f3f9-d855-4793-ae33-0e7c48438cb8",
   "fields": {
     "submitted_at": "2021-02-10T21:26:49.844Z",
-    "modified_at": "2021-04-01T18:59:19.054Z",
+    "modified_at": "2021-04-01T19:06:05.425Z",
     "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
     "item_id": "CST-CHEM-2009-19",
     "slug": "cst-chem-2009-19",
@@ -62625,7 +62625,7 @@
   "pk": "7252e46a-d34e-4d53-8975-a3ee783bd643",
   "fields": {
     "submitted_at": "2021-02-24T07:58:50.241Z",
-    "modified_at": "2021-02-24T07:58:50.241Z",
+    "modified_at": "2021-04-01T19:06:05.426Z",
     "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
     "coding_scheme": "WC",
     "coding": {
@@ -62639,18 +62639,18 @@
       "1.1.8": 0,
       "1.1.9": 0,
       "1.2.1": 0,
-      "1.2.2": 0,
-      "1.3.1": 0,
+      "1.2.2": 1,
+      "1.3.1": 1,
       "1.3.2": 0,
       "1.3.3": 0,
       "1.4.1": 0,
       "1.4.2": 0,
-      "1.4.3": 0,
+      "1.4.3": 1,
       "1.4.4": 0,
       "1.4.5": 0,
       "1.5.1": 0,
-      "1.5.2": 0,
-      "1.7.1": 0,
+      "1.5.2": 1,
+      "1.7.1": 1,
       "1.7.2": 0,
       "1.8.1": 1,
       "1.8.2": 0,
@@ -62789,7 +62789,7 @@
       "6.3.50": 0
     },
     "item": "f6f2f3f9-d855-4793-ae33-0e7c48438cb8",
-    "notes": ""
+    "notes": "HH added: 1.2.2 without background, 1.3.1 zero zooming naked eye, 1.4.3 from above object?, 1.5.2 two dimensional, 1.7.1 proportionate\r\nNot sure: 3.2. Text function, 4. Variables, constants, functions"
   }
 },
 {
