@@ -2202,6 +2202,26 @@
 },
 {
   "model": "items.item",
+  "pk": "283ad6c7-33f8-4e53-a23f-9719921bcd79",
+  "fields": {
+    "submitted_at": "2021-04-15T23:16:30.284Z",
+    "modified_at": "2021-04-15T23:16:30.284Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-62",
+    "slug": "mcas-scitecheng-62",
+    "name": "Four Cars",
+    "test": 11,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "ES",
+    "main_image": "mcas-scitecheng-62/FourCars.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "29626523-db95-45b6-822d-c149df9c7ed7",
   "fields": {
     "submitted_at": "2021-02-11T07:31:28.808Z",
