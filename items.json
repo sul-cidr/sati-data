@@ -5845,7 +5845,7 @@
   "pk": "6ef99032-98c0-4f4e-99ae-bb1184ec2065",
   "fields": {
     "submitted_at": "2021-02-10T01:53:11.471Z",
-    "modified_at": "2021-04-01T18:45:19.363Z",
+    "modified_at": "2021-04-16T16:59:14.747Z",
     "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
     "item_id": "CST-BIO-2009-14",
     "slug": "cst-bio-2009-14",
@@ -26747,7 +26747,7 @@
   "pk": "1d609e79-8085-49af-a88c-5f1e306a35cf",
   "fields": {
     "submitted_at": "2021-02-24T06:26:21.606Z",
-    "modified_at": "2021-04-01T18:45:19.364Z",
+    "modified_at": "2021-04-16T16:59:14.748Z",
     "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
     "coding_scheme": "WC",
     "coding": {
@@ -26792,7 +26792,7 @@
       "2.3.2": 0,
       "2.3.3": 0,
       "2.3.4": 0,
-      "3.1.1": 0,
+      "3.1.1": 1,
       "3.1.2": 0,
       "3.1.3": 0,
       "3.1.4": 0,
@@ -26911,7 +26911,7 @@
       "6.3.50": 0
     },
     "item": "6ef99032-98c0-4f4e-99ae-bb1184ec2065",
-    "notes": "HH added 1.1.50 other, 1.2.2 without background, 1.3.1 zero zooming naked eye, 1.4.3 from above object, 1.7.1 proportionate, 4.1.2 categories\r\nHH removed 3.1.1 non--scientific/mathematical sign"
+    "notes": "HH added 1.1.50 other, 1.2.2 without background, 1.3.1 zero zooming naked eye, 1.4.3 from above object, 1.7.1 proportionate, 4.1.2 categories"
   }
 },
 {
