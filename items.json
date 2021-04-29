@@ -804,6 +804,26 @@
 },
 {
   "model": "items.item",
+  "pk": "0ae90dfe-10c4-4c88-a9e0-428b3ff82205",
+  "fields": {
+    "submitted_at": "2021-04-29T04:14:57.110Z",
+    "modified_at": "2021-04-29T04:14:57.110Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-99",
+    "slug": "mcas-scitecheng-99",
+    "name": "Product",
+    "test": 13,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "LS",
+    "main_image": "mcas-scitecheng-99/Product.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "0b964d69-2102-4a20-b49b-68687ed1b14d",
   "fields": {
     "submitted_at": "2021-01-21T22:32:11.410Z",
@@ -1524,6 +1544,26 @@
 },
 {
   "model": "items.item",
+  "pk": "17914d6c-12e6-4985-8668-c883d6118027",
+  "fields": {
+    "submitted_at": "2021-04-29T04:00:32.035Z",
+    "modified_at": "2021-04-29T04:00:32.035Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-85",
+    "slug": "mcas-scitecheng-85",
+    "name": "Power",
+    "test": 10,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "ES",
+    "main_image": "mcas-scitecheng-85/Power.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "17cd7635-1a3e-4711-8789-d49f7cebc066",
   "fields": {
     "submitted_at": "2021-02-10T21:44:55.112Z",
@@ -1924,6 +1964,26 @@
 },
 {
   "model": "items.item",
+  "pk": "21031c89-c708-4485-95df-d13f6ea68dcb",
+  "fields": {
+    "submitted_at": "2021-04-29T04:06:36.672Z",
+    "modified_at": "2021-04-29T04:06:36.672Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-88",
+    "slug": "mcas-scitecheng-88",
+    "name": "Pull",
+    "test": 10,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "mcas-scitecheng-88/Pull.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "213e8b9b-5471-43a0-9cbc-4ec887450da1",
   "fields": {
     "submitted_at": "2021-02-10T20:49:13.892Z",
@@ -1957,6 +2017,26 @@
     "format": "[\"MC\"]",
     "content_area": "PS",
     "main_image": "cst-sci-2009-g8-05/VINEGAR.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
+  "pk": "21646386-c567-4677-a47b-ccdda966eae8",
+  "fields": {
+    "submitted_at": "2021-04-29T04:07:43.376Z",
+    "modified_at": "2021-04-29T04:07:43.376Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-90",
+    "slug": "mcas-scitecheng-90",
+    "name": "Light",
+    "test": 10,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "mcas-scitecheng-90/Light.png",
     "requires_attention": true,
     "notes": "",
     "ocr_text": ""
@@ -2160,6 +2240,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-222\nTIMSS-PS-2007-S042061\n\nThe diagram represents the arrangement of particles in a metal before it has been\nheated.\n\n \n\nWhich diagram represents the arrangement of particles in the metal after it has\nbeen heated?\n\n \n\nOOOOO0O\n\n© QOO0OO0OO\nOOO0O0OO\n\nOQ0O0O00\n\n@ OCO000\nOO0000"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "25bbc706-e9d2-4065-9c23-7b9d092ab492",
+  "fields": {
+    "submitted_at": "2021-04-29T04:08:32.635Z",
+    "modified_at": "2021-04-29T04:08:32.635Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-92",
+    "slug": "mcas-scitecheng-92",
+    "name": "Plane",
+    "test": 10,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "mcas-scitecheng-92/Plane.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -2417,6 +2517,26 @@
     "format": "[\"MC\"]",
     "content_area": "PS",
     "main_image": "cst-sci-2009-g8-04/LUMPS.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
+  "pk": "2cca080a-33dd-4912-a9a2-4b640fa4ec2c",
+  "fields": {
+    "submitted_at": "2021-04-29T04:00:59.546Z",
+    "modified_at": "2021-04-29T04:00:59.546Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-86",
+    "slug": "mcas-scitecheng-86",
+    "name": "Coil",
+    "test": 10,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "mcas-scitecheng-86/Coil.png",
     "requires_attention": true,
     "notes": "",
     "ocr_text": ""
@@ -3504,6 +3624,26 @@
 },
 {
   "model": "items.item",
+  "pk": "406406e3-2167-4edb-9343-7fe1c7781efc",
+  "fields": {
+    "submitted_at": "2021-04-29T04:08:06.140Z",
+    "modified_at": "2021-04-29T04:08:06.140Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-91",
+    "slug": "mcas-scitecheng-91",
+    "name": "Sphere",
+    "test": 10,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "mcas-scitecheng-91/Sphere.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "40a95c02-d0b3-4d77-8b5d-296250921036",
   "fields": {
     "submitted_at": "2021-03-13T20:39:24.967Z",
@@ -3664,6 +3804,26 @@
 },
 {
   "model": "items.item",
+  "pk": "44fe0be7-1174-4ded-9e28-7faf25b753a0",
+  "fields": {
+    "submitted_at": "2021-04-29T04:00:08.434Z",
+    "modified_at": "2021-04-29T04:00:08.434Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-84",
+    "slug": "mcas-scitecheng-84",
+    "name": "Force",
+    "test": 10,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "mcas-scitecheng-84/Force.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "45158fdb-f335-4f31-b14f-7679dc72ae56",
   "fields": {
     "submitted_at": "2021-01-21T22:32:09.423Z",
@@ -3720,6 +3880,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-309\nNY-LS-2008-50\n\n50 The Punnett square below shows the probability of blood types in the offspring of two parents. One\nparent's blood type genes are AB and the other parent's blood type genes are Ao.\n\nol\n\nBase your answers to questions 50 and 31 on the information about blood groups below.\n\nHuman blood is classified into four blood types: A, B, AB, and O. An offspring’s blood\ntype is determined by genes passed on from the offspring’s parents. Each parent gives an off-\nspring one gene for blood type. The combination of the two genes determines the offspring’s\n\nblood type.\n\nThere are three genes, A, B, and o, that are responsible for the four blood\ntable below shows how these three genes interact to produce the four blood types.\n\nDetermination of Blood Type\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nGenes from Parents | Genes of | Blood Type\nMother Father | Offspring jof Offspring\n\nA A AA A\n\nA o Ao A\n\nA B AB AB\n\nB B BB B\n\noO B Bo B\n\no o oo 0\n\n \n\n \n\n \n\nA B\nA AA AB\no Ao Bo\n\n \n\n \n\n \n\n \n\nBased on this Punnett square, identify the expected percentage of offspring in each of the four blood\n\ntypes. [1]\n\nBlood type A: %\nBlood type AB: %\nBlood type B: %\nBlood type O: Ge\n\nComplete the Punnett square below, which shows a cross between two parents whose genes for blood type\n\nare AB. [1]\n\nB\n\n \n\n \n\n \n\n \n\n \n\n \n\ntypes. The"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "46740713-825c-426e-9b01-5953b4dce2c1",
+  "fields": {
+    "submitted_at": "2021-04-29T04:13:23.802Z",
+    "modified_at": "2021-04-29T04:13:23.802Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-96",
+    "slug": "mcas-scitecheng-96",
+    "name": "Size",
+    "test": 13,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "LS",
+    "main_image": "mcas-scitecheng-96/Size.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -4020,6 +4200,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-097\n\nSH-ES-2008-4\n\n \n\n \n\n \n\n \n\n \n\n四、2008年5月6日至10日，国家主席胡锦涛对日本进行了为期五天的友好访问。读\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n日 期       行程\n5月6日 | 抵达东京羽田机场\n赴东京首相官负与日本首\n5 7 | 相会恋\n5月8日 | 赴东京早稻田大学演讲\n参观川崎环保城\n5月9日\n参观横滨中华街\n访问古都共有\n5月10日\n由大阪关西机场登机回国\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n日本是东亚岛国，此次访日行程都位于 岛上，该岛东临“”洋。\n\n本海运发达，此次访日城市中大阪和__ ”都是世界著名大港。\n\n \n\n本工业高度集中，主要分布在__”治岸地带，原因是该地带……:《\n\nA，资源丰富  B，运输便利   C.， 人口稀少   D，和气候宜人\n\n \n\n \n\n \n\n \n\n到文资料回答\n\n(10分)"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "49f8011f-719b-459e-88b7-772f2d5ca627",
+  "fields": {
+    "submitted_at": "2021-04-29T04:12:19.252Z",
+    "modified_at": "2021-04-29T04:12:19.252Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-94",
+    "slug": "mcas-scitecheng-94",
+    "name": "Population",
+    "test": 13,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "LS",
+    "main_image": "mcas-scitecheng-94/Population.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -4584,6 +4784,26 @@
 },
 {
   "model": "items.item",
+  "pk": "54e10729-850a-4f27-b696-c2d2d1f4ba9d",
+  "fields": {
+    "submitted_at": "2021-04-29T04:14:27.266Z",
+    "modified_at": "2021-04-29T04:14:27.266Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-98",
+    "slug": "mcas-scitecheng-98",
+    "name": "Web",
+    "test": 13,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "LS",
+    "main_image": "mcas-scitecheng-98/Web.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "5511b0e8-4f73-496e-b00c-a76b7a11af4b",
   "fields": {
     "submitted_at": "2021-01-21T22:32:08.641Z",
@@ -4660,6 +4880,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-230\nCA-PS-2007-10\n\nThe graph below shows how the position of an\nobject changes over time.\n\nPosition vs. Time\n\n \n\n18.0\n\n \n\n/\n/\n\n \n\nPosition (m)\no\n°\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n0 2 4 6 8 10\n\nTime (s)\n\nWhat is the speed of the object during the time\ninterval from 4 seconds to 10 seconds?\n\nA 2\ns\nBo o30t\nSs\nc 3st\ns\nD 16—\n\nCSZ30195"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "56755195-9e38-49fa-bdd4-8376f5280d62",
+  "fields": {
+    "submitted_at": "2021-04-29T04:13:52.530Z",
+    "modified_at": "2021-04-29T04:13:52.530Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-97",
+    "slug": "mcas-scitecheng-97",
+    "name": "Bacteria",
+    "test": 13,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "LS",
+    "main_image": "mcas-scitecheng-97/Bacteria.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -7164,6 +7404,26 @@
 },
 {
   "model": "items.item",
+  "pk": "819263e7-7e00-43da-b643-44ad38113945",
+  "fields": {
+    "submitted_at": "2021-04-29T04:15:26.230Z",
+    "modified_at": "2021-04-29T04:15:26.230Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-100",
+    "slug": "mcas-scitecheng-100",
+    "name": "Parent Cell",
+    "test": 13,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "LS",
+    "main_image": "mcas-scitecheng-100/ParentCell.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "81c733c0-96ca-42c1-a6ec-ed5b32d46ad2",
   "fields": {
     "submitted_at": "2021-03-12T06:16:13.905Z",
@@ -7284,6 +7544,26 @@
 },
 {
   "model": "items.item",
+  "pk": "83cf76e9-6257-472d-b278-b1f7e820a4d6",
+  "fields": {
+    "submitted_at": "2021-04-29T04:01:31.507Z",
+    "modified_at": "2021-04-29T04:01:31.507Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-87",
+    "slug": "mcas-scitecheng-87",
+    "name": "Blocks",
+    "test": 10,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "mcas-scitecheng-87/Blocks.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "83d51fb7-ddff-4766-a161-d2869e43f18a",
   "fields": {
     "submitted_at": "2021-01-21T22:32:11.027Z",
@@ -7397,6 +7677,26 @@
     "format": "[\"CR\"]",
     "content_area": "ES",
     "main_image": "mcas-scitecheng-15/Fertilizer.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
+  "pk": "85e643d7-8518-4ae2-9b32-2eed783ceb0a",
+  "fields": {
+    "submitted_at": "2021-04-29T04:16:28.706Z",
+    "modified_at": "2021-04-29T04:16:28.706Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-102",
+    "slug": "mcas-scitecheng-102",
+    "name": "Female",
+    "test": 13,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "LS",
+    "main_image": "mcas-scitecheng-102/Female.png",
     "requires_attention": true,
     "notes": "",
     "ocr_text": ""
@@ -8184,6 +8484,26 @@
 },
 {
   "model": "items.item",
+  "pk": "9677459a-103d-4094-a2a8-4e89aec723a2",
+  "fields": {
+    "submitted_at": "2021-04-29T04:07:16.625Z",
+    "modified_at": "2021-04-29T04:07:16.625Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-89",
+    "slug": "mcas-scitecheng-89",
+    "name": "Air",
+    "test": 10,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "mcas-scitecheng-89/Air.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "96909f48-b24d-4a5d-aea1-5a08543b9fc3",
   "fields": {
     "submitted_at": "2021-02-16T21:30:19.603Z",
@@ -8680,6 +9000,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-304\nNY-PS-2008-43\n\n43 The diagram below shows a hammer being used\nby a person to remove a nail from a piece of\nwood.\n\n   \n\nForce exerted\nby person\n\nThe hammer is being used as which type of\nsimple machine?\n\n(1) wheel and axle (3) lever\n(2) inclined plane (4) pulley"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "9ddc17fa-5a49-4291-8dcf-12a414b76654",
+  "fields": {
+    "submitted_at": "2021-04-29T04:12:44.780Z",
+    "modified_at": "2021-04-29T04:12:44.780Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-95",
+    "slug": "mcas-scitecheng-95",
+    "name": "Cell",
+    "test": 13,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "LS",
+    "main_image": "mcas-scitecheng-95/Cell.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -9580,6 +9920,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-235\n\nCA-PS-2007-19\n\nThe following table shows properties of four\n\ndifferent sample materials. One of these\n\nmaterials is cork, a type of wood that floats in\n\n \n\n \n\n \n\n \n\n \n\nwater.\nPhysical Properties\nSample Mass | Volume\nNumber\n1 89g | 10mL\n2 26g | 10mL\n3 24g | 100 mL\n4 160g | 100 mL\n\nGiven that the density of water is 1\n\n \n\n \n\n \n\n \n\n \n\nof the samples is most likely cork?\n\nA\n\nB\nCc\nD\n\n1\n\nbo\n\nee\n\n—. which\nL"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "b0a8d70b-b107-454a-8dc1-7970ecc4ce09",
+  "fields": {
+    "submitted_at": "2021-04-29T04:09:02.872Z",
+    "modified_at": "2021-04-29T04:09:02.872Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-93",
+    "slug": "mcas-scitecheng-93",
+    "name": "Ground",
+    "test": 10,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "mcas-scitecheng-93/Ground.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -10780,6 +11140,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-081\nTJ-PS-2010-9\n9. 图6是一种水位报警器的原理图。当水位到达金属块和时(一般的水能导电)，电路\n\n \n\n \n\n \n\n中                                                                                                                                            E\nA. 绿灯亮\nB. 红灯亮                                          Te |\n水\nC. 两灯同时高                          和\n避       -一                                 一\nD . 两灯都不毫                                          电源            电深\n\n图6"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "ca76328e-ccfb-4f7e-90e8-300c664d4f64",
+  "fields": {
+    "submitted_at": "2021-04-29T04:15:51.351Z",
+    "modified_at": "2021-04-29T04:15:51.351Z",
+    "submitted_by": "336f4a6b-69d4-4f9f-914e-b717bae39905",
+    "item_id": "MCAS-SciTechEng-101",
+    "slug": "mcas-scitecheng-101",
+    "name": "Fish",
+    "test": 13,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "LS",
+    "main_image": "mcas-scitecheng-101/Fish.png",
+    "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
