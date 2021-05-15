@@ -4018,6 +4018,26 @@
 },
 {
   "model": "items.item",
+  "pk": "37452d30-9a41-47c7-b65d-c161925a3ee0",
+  "fields": {
+    "submitted_at": "2021-05-15T07:00:11.330Z",
+    "modified_at": "2021-05-15T07:00:13.962Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2016-g4-43",
+    "slug": "nysed-els-2016-g4-43",
+    "name": "flashlight",
+    "test": 27,
+    "language": "EN",
+    "format": "[\"CR\"]",
+    "content_area": "PS",
+    "main_image": "nysed-els-2016-g4-43/ScreenShot2021-05-14at11.59.46PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "37b00c5a-1b1b-4c8b-a3c0-a858b34a0f58",
   "fields": {
     "submitted_at": "2021-01-21T22:32:10.607Z",
@@ -14592,6 +14612,26 @@
     "content_area": "LS",
     "main_image": "cst-sci-2009-g10-02/MINERALSUPPLIMENT.png",
     "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
+  "pk": "d05e6393-96d5-4bed-8521-2578aa5a57c5",
+  "fields": {
+    "submitted_at": "2021-05-15T07:00:44.498Z",
+    "modified_at": "2021-05-15T07:00:47.967Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2016-g4-44",
+    "slug": "nysed-els-2016-g4-44",
+    "name": "natural event",
+    "test": 27,
+    "language": "EN",
+    "format": "[\"CR\"]",
+    "content_area": "ES",
+    "main_image": "nysed-els-2016-g4-44/ScreenShot2021-05-15at12.00.26AM.png",
+    "requires_attention": false,
     "notes": "",
     "ocr_text": ""
   }
