@@ -286,6 +286,17 @@
   }
 },
 {
+  "model": "items.test",
+  "pk": 27,
+  "fields": {
+    "name": "NYSED-ELS",
+    "year": 2016,
+    "source_url": "https://www.nysedregents.org/Grade4/Science/616/els62016-testw.pdf",
+    "grade_level": 4,
+    "notes": ""
+  }
+},
+{
   "model": "items.item",
   "pk": "001a2517-36a5-43e3-8e92-9d0e79cd12ba",
   "fields": {
@@ -403,6 +414,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-023\n\nBJ-PS-2010-22\n\n22. 如图 9 所示,\n\n压不变，电阻 :的阻值为 22。闭\n\n \n\n \n\n源两端\n\n \n\n合开关 S，当滑动变阴器的滑片 忆 位于 4 点时，电压表 V)\n的示数为 4V，电压表 V:的示数为 10V。当滑动变阻器的滑\n\n片忆位于召点时，上\n\n \n\n \n\n压表 V: 的示数为 8V， 上\n\n数为 11V。则电阻 Ra:的阻值是        Q。\n23. 如图 10 甲所示，底面积为 80cm:的圆简形容器内装有适量\n的液体，放在水平桌面上;-底面积为\"60cmz 的圆柱形物\n\n \n\n \n\n \n\n \n\n压表 V2 的示"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "02070d23-909c-41ff-b260-edc05fe7ae7e",
+  "fields": {
+    "submitted_at": "2021-05-15T06:22:45.355Z",
+    "modified_at": "2021-05-15T06:22:58.610Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2017-g4-28",
+    "slug": "nysed-els-2017-g4-28",
+    "name": "fire burning",
+    "test": 26,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "nysed-els-2017-g4-26/ScreenShot2021-05-14at11.22.27PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -587,6 +618,26 @@
 },
 {
   "model": "items.item",
+  "pk": "053e687d-1bea-4797-bd10-69d411a2687d",
+  "fields": {
+    "submitted_at": "2021-05-15T06:35:08.805Z",
+    "modified_at": "2021-05-15T06:35:11.323Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2016-g4-7",
+    "slug": "nysed-els-2016-g4-7",
+    "name": "bird sounds",
+    "test": 27,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "LS",
+    "main_image": "nysed-els-2016-g4-7/ScreenShot2021-05-14at11.34.50PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "05b50cf3-b39b-41ec-be4c-cedfeee95354",
   "fields": {
     "submitted_at": "2021-01-21T22:32:09.067Z",
@@ -727,6 +778,26 @@
 },
 {
   "model": "items.item",
+  "pk": "07ff56be-7daa-4676-8e0d-8b8e8d2bedc0",
+  "fields": {
+    "submitted_at": "2021-05-15T06:44:36.066Z",
+    "modified_at": "2021-05-15T06:44:39.351Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2016-g4-35/36",
+    "slug": "nysed-els-2016-g4-3536",
+    "name": "plant growth",
+    "test": 27,
+    "language": "EN",
+    "format": "[\"CR\"]",
+    "content_area": "PS",
+    "main_image": "nysed-els-2016-g4-3536/ScreenShot2021-05-14at11.44.03PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "08042612-069b-4e1d-9e29-e795abb1cf94",
   "fields": {
     "submitted_at": "2021-01-21T22:32:10.956Z",
@@ -841,6 +912,26 @@
     "content_area": "PS",
     "main_image": "cst-chem-2009-25/ETHANOL.png",
     "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
+  "pk": "08f9ac5e-43d8-4ba1-adbd-233a97e367f8",
+  "fields": {
+    "submitted_at": "2021-05-15T06:34:11.783Z",
+    "modified_at": "2021-05-15T06:34:14.996Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2016-g4-5",
+    "slug": "nysed-els-2016-g4-5",
+    "name": "healthy food choice",
+    "test": 27,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "LS",
+    "main_image": "nysed-els-2016-g4-5/ScreenShot2021-05-14at11.33.45PM.png",
+    "requires_attention": false,
     "notes": "",
     "ocr_text": ""
   }
@@ -1143,6 +1234,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-377\n\nTX-LS-2006-7\n\n \n\n \n\n \n\nCatfish 1 Catfish 2\n\nScale\n1cm=4cm\n\n7 The scale drawings above show two catfish collected from a river. What is the difference in the\nactual\nbody lengths of these catfish?\n\nA3cm\nB9cm\nC 12cm\nD 24 cm"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "0baa70d9-3bf6-4291-af8d-c156dadc29e9",
+  "fields": {
+    "submitted_at": "2021-05-15T06:20:23.401Z",
+    "modified_at": "2021-05-15T06:20:25.635Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2017-g4-19",
+    "slug": "nysed-els-2017-g4-19",
+    "name": "water cycle",
+    "test": 26,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "ES",
+    "main_image": "nysed-els-2017-g4-19/ScreenShot2021-05-14at11.19.45PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -1907,6 +2018,26 @@
 },
 {
   "model": "items.item",
+  "pk": "15cd4cdf-de14-4691-b947-117c6faffcc7",
+  "fields": {
+    "submitted_at": "2021-05-15T06:27:56.185Z",
+    "modified_at": "2021-05-15T06:28:04.225Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2017-g4-38/39",
+    "slug": "nysed-els-2017-g4-3839",
+    "name": "plant",
+    "test": 26,
+    "language": "EN",
+    "format": "[\"CR\"]",
+    "content_area": "LS",
+    "main_image": "nysed-els-2017-g4-3839/ScreenShot2021-05-14at11.27.11PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "15f27f40-36b0-4d2a-9244-e81b33e2e0cf",
   "fields": {
     "submitted_at": "2021-01-21T22:32:11.585Z",
@@ -1923,6 +2054,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-398\nTX-PS-2009-4\n\nGround\n\n \n\n4 In the diagram shown above, what are two main factors that affect where groundwater becomes surface\nwater?\nF The number of wells and the temperature of the water\nG The height of the water table and the height of the ground surface\nH_ The force of the water and pressure from the atmosphere\nJ) The direction of the wind and the direction of the stream’s flow"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "16110ee3-722a-4222-bcea-0d2b5647d852",
+  "fields": {
+    "submitted_at": "2021-05-15T06:36:39.570Z",
+    "modified_at": "2021-05-15T06:36:42.240Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2016-g4-22",
+    "slug": "nysed-els-2016-g4-22",
+    "name": "match",
+    "test": 27,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "nysed-els-2016-g4-22/ScreenShot2021-05-14at11.36.22PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -2441,6 +2592,26 @@
     "content_area": "ES",
     "main_image": "mcas-bio-13/Trophic.png",
     "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
+  "pk": "1f4e6fc5-0bb6-4905-afc7-307773207487",
+  "fields": {
+    "submitted_at": "2021-05-15T06:35:43.354Z",
+    "modified_at": "2021-05-15T06:35:45.607Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2016-g4-15",
+    "slug": "nysed-els-2016-g4-15",
+    "name": "balance",
+    "test": 27,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "nysed-els-2016-g4-15/ScreenShot2021-05-14at11.35.22PM.png",
+    "requires_attention": false,
     "notes": "",
     "ocr_text": ""
   }
@@ -3047,6 +3218,26 @@
 },
 {
   "model": "items.item",
+  "pk": "2a213251-e5f2-4c4c-98ee-cc8f9e403541",
+  "fields": {
+    "submitted_at": "2021-05-15T06:59:00.369Z",
+    "modified_at": "2021-05-15T06:59:03.163Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2016-g4-39/40/41",
+    "slug": "nysed-els-2016-g4-394041",
+    "name": "food chain",
+    "test": 27,
+    "language": "EN",
+    "format": "[\"CR\"]",
+    "content_area": "LS",
+    "main_image": "nysed-els-2016-g4-394041/ScreenShot2021-05-14at11.58.17PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "2a6b9bfc-4a95-4952-9dc6-3b4b67fada8c",
   "fields": {
     "submitted_at": "2021-03-15T04:59:38.848Z",
@@ -3627,6 +3818,26 @@
 },
 {
   "model": "items.item",
+  "pk": "33119679-54f9-465f-8bff-c312ae165f37",
+  "fields": {
+    "submitted_at": "2021-05-15T06:36:10.961Z",
+    "modified_at": "2021-05-15T06:36:13.925Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2016-g4-17",
+    "slug": "nysed-els-2016-g4-17",
+    "name": "fan",
+    "test": 27,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "nysed-els-2016-g4-17/ScreenShot2021-05-14at11.35.54PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "333a3d4d-4955-438c-a859-522c980fc9f8",
   "fields": {
     "submitted_at": "2021-02-16T21:25:56.543Z",
@@ -3720,6 +3931,26 @@
     "format": "[\"MC\"]",
     "content_area": "LS",
     "main_image": "nysed-sci-g4-1/ScreenShot2021-05-14at10.04.46PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
+  "pk": "35b4d33c-594e-41b1-955d-a18db9b9b721",
+  "fields": {
+    "submitted_at": "2021-05-15T06:18:07.408Z",
+    "modified_at": "2021-05-15T06:18:10.281Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2017-g4-11/12/13",
+    "slug": "nysed-els-2017-g4-111213",
+    "name": "food chain",
+    "test": 26,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "LS",
+    "main_image": "nysed-els-2017-g4-111213/ScreenShot2021-05-14at11.17.35PM.png",
     "requires_attention": false,
     "notes": "",
     "ocr_text": ""
@@ -4727,6 +4958,46 @@
 },
 {
   "model": "items.item",
+  "pk": "4200f76c-cd08-4fa8-8f41-fe0be89de08f",
+  "fields": {
+    "submitted_at": "2021-05-15T06:33:10.152Z",
+    "modified_at": "2021-05-15T06:33:10.152Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2016-g4-4",
+    "slug": "nysed-els-2016-g4-4",
+    "name": "plant structure",
+    "test": 27,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "LS",
+    "main_image": "nysed-els-2016-g4-4/ScreenShot2021-05-14at11.32.48PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
+  "pk": "4359b62a-42e6-4ef4-97d2-d25d27b0bd8f",
+  "fields": {
+    "submitted_at": "2021-05-15T06:34:37.966Z",
+    "modified_at": "2021-05-15T06:34:41.922Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2016-g4-6",
+    "slug": "nysed-els-2016-g4-6",
+    "name": "plants",
+    "test": 27,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "LS",
+    "main_image": "nysed-els-2016-g4-6/ScreenShot2021-05-14at11.34.23PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "441de20c-e07d-4762-9dc1-00e87a859bae",
   "fields": {
     "submitted_at": "2021-04-29T03:11:41.735Z",
@@ -5003,6 +5274,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-250\nDC-PS-2009-01005578\n\nThe diagram below shows part of a rollercoaster track.\n\n2\n\nStart —>\n\nAt which numbered location in the diagram will the rollercoaster car have the greatest amount\nof kinetic energy and the least amount of gravitational energy?\n\nlocation 1\n\nlocation 2\n\nlocation 3\n\nae zran\n\nlocation 4"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "4714b87c-5e71-4f0f-a998-0c4fdfe627da",
+  "fields": {
+    "submitted_at": "2021-05-15T06:26:52.681Z",
+    "modified_at": "2021-05-15T06:26:55.534Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2017-g4-37",
+    "slug": "nysed-els-2017-g4-37",
+    "name": "human characteristics",
+    "test": 26,
+    "language": "EN",
+    "format": "[\"FT\"]",
+    "content_area": "LS",
+    "main_image": "nysed-els-2017-g4-37/ScreenShot2021-05-14at11.26.16PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -5647,6 +5938,26 @@
 },
 {
   "model": "items.item",
+  "pk": "4ed35063-8c2b-410c-b1c7-ed408cc7a357",
+  "fields": {
+    "submitted_at": "2021-05-15T06:40:57.273Z",
+    "modified_at": "2021-05-15T06:41:00.871Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2016-g4-33",
+    "slug": "nysed-els-2016-g4-33",
+    "name": "five senses",
+    "test": 27,
+    "language": "EN",
+    "format": "[\"FT\"]",
+    "content_area": "PS",
+    "main_image": "nysed-els-2016-g4-33/ScreenShot2021-05-14at11.40.29PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "4f3b862e-b81f-4ecc-9e5f-b99f5f4d5e46",
   "fields": {
     "submitted_at": "2021-01-21T22:32:09.273Z",
@@ -5941,6 +6252,26 @@
     "content_area": "ES",
     "main_image": "cst-sci-2009-g5-20/LANDSCAPE.png",
     "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
+  "pk": "5192f529-0d2e-43b0-bbcd-ac27386a514a",
+  "fields": {
+    "submitted_at": "2021-05-15T06:37:09.815Z",
+    "modified_at": "2021-05-15T06:37:12.368Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2016-g4-23",
+    "slug": "nysed-els-2016-g4-23",
+    "name": "evaporation",
+    "test": 27,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "nysed-els-2016-g4-23/ScreenShot2021-05-14at11.36.49PM.png",
+    "requires_attention": false,
     "notes": "",
     "ocr_text": ""
   }
@@ -6263,6 +6594,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-125-21\nSH-PS-2010-21\n\n三、作图题 (共9分》\n\n请在答题纸规定的位置上作答，作图题必须使用 2B 铅笔\n\n19.重为 20牛的物体静止在水平地面上，用力的图示法在图 0 中男出它所受的重力 G。\n20. 根据平面简成像特点，在图 11 中国出物体 AB 在平面镜 MN 中所成的像和也。\n\n21. 在图 12 中，标出磁感线方向、小磁针的太极和电源的正、负极。\nM\n\n \n\n委\nS        <一[一\n\nSS\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nNS\n\n \n\n \n\n \n\n \n\nSASAAAAAAARSAT\n\n \n\n \n\n电源\n图30                         图1                               图12\n\n \n\n响"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "57dd7729-12f3-407b-b9d6-543b34251d1f",
+  "fields": {
+    "submitted_at": "2021-05-15T06:23:27.792Z",
+    "modified_at": "2021-05-15T06:23:30.138Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2017-g4-29",
+    "slug": "nysed-els-2017-g4-29",
+    "name": "protein",
+    "test": 26,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "nysed-els-2017-g4-29/ScreenShot2021-05-14at11.23.08PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -6927,6 +7278,26 @@
 },
 {
   "model": "items.item",
+  "pk": "6087b73b-d3b5-4efd-9864-9483a8bca43d",
+  "fields": {
+    "submitted_at": "2021-05-15T06:37:43.583Z",
+    "modified_at": "2021-05-15T06:37:46.150Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2016-g4-27",
+    "slug": "nysed-els-2016-g4-27",
+    "name": "simple machine",
+    "test": 27,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "nysed-els-2016-g4-27/ScreenShot2021-05-14at11.37.22PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "608cfbc5-75ab-4b04-8eef-3fb243457e80",
   "fields": {
     "submitted_at": "2021-01-21T22:32:08.626Z",
@@ -7187,6 +7558,26 @@
 },
 {
   "model": "items.item",
+  "pk": "64b297c7-ca8d-4c6a-9668-77b22f1239e1",
+  "fields": {
+    "submitted_at": "2021-05-15T06:21:42.726Z",
+    "modified_at": "2021-05-15T06:21:44.994Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2017-g4-22",
+    "slug": "nysed-els-2017-g4-22",
+    "name": "glass marble",
+    "test": 26,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "nysed-els-2017-g4-22/ScreenShot2021-05-14at11.21.16PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "64e23ffd-e5b1-4834-9a85-ef1508b25186",
   "fields": {
     "submitted_at": "2021-01-21T22:32:08.801Z",
@@ -7323,6 +7714,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-166\nTIMSS-PS-1999-D02\n\nEach of the three magnets shown has been dipped into the substance below it.\nWhich of the substances could be coffee?\n\n \n\n \n\n \n\n \n\nSubstance A Substance 6 Substance C\n\nA. Aonly\nB. Bonly\nCc. Conly\n\nD. Aand B only"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "668b4b24-44b1-438c-a472-caaf2382a8b9",
+  "fields": {
+    "submitted_at": "2021-05-15T06:30:31.410Z",
+    "modified_at": "2021-05-15T06:30:33.907Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2017-g4-42",
+    "slug": "nysed-els-2017-g4-42",
+    "name": "object properties",
+    "test": 26,
+    "language": "EN",
+    "format": "[\"FT\"]",
+    "content_area": "PS",
+    "main_image": "nysed-els-2017-g4-42/ScreenShot2021-05-14at11.29.38PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -7867,6 +8278,26 @@
 },
 {
   "model": "items.item",
+  "pk": "6f2ac5d9-2cce-4796-b992-1abe75edc41c",
+  "fields": {
+    "submitted_at": "2021-05-15T06:17:15.148Z",
+    "modified_at": "2021-05-15T06:17:17.225Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2017-g4-10",
+    "slug": "nysed-els-2017-g4-10",
+    "name": "industrial revolution",
+    "test": 26,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "LS",
+    "main_image": "nysed-els-2017-g4-10/ScreenShot2021-05-14at11.15.31PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "6f63b57f-7004-4cbf-97b9-89caa9bc8888",
   "fields": {
     "submitted_at": "2021-01-21T22:32:09.987Z",
@@ -7883,6 +8314,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-206\nTIMSS-PS-2003-S022279\n\nThe picture shows a paint brush that 1s lying on a shelf in front of a mirror.\nDraw a picture of the paint brush as you would see it in the mirror. Use the\npatterns of lines on the shelf to help you.\n\n \n\nmirror\n\na F i e a Fr\npore c ce ghee n eee potceess yore ee eee eee ees\n' '\n\nPoo TT\n[ Ay /_/ i}"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "6f887743-4661-499d-9735-fa304e5e337a",
+  "fields": {
+    "submitted_at": "2021-05-15T06:18:59.111Z",
+    "modified_at": "2021-05-15T06:19:01.532Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2017-g4-14",
+    "slug": "nysed-els-2017-g4-14",
+    "name": "owls and rabbit",
+    "test": 26,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "LS",
+    "main_image": "nysed-els-2017-g4-14/ScreenShot2021-05-14at11.18.24PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -8327,6 +8778,26 @@
 },
 {
   "model": "items.item",
+  "pk": "7501f3d5-9b6d-4c2d-98dd-6e1f4cfbbe0b",
+  "fields": {
+    "submitted_at": "2021-05-15T06:59:35.886Z",
+    "modified_at": "2021-05-15T06:59:40.021Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2016-g4-42",
+    "slug": "nysed-els-2016-g4-42",
+    "name": "simple machines",
+    "test": 27,
+    "language": "EN",
+    "format": "[\"FT\"]",
+    "content_area": "PS",
+    "main_image": "nysed-els-2016-g4-42/ScreenShot2021-05-14at11.59.12PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "750783f9-d8d1-468c-8080-6365703266ed",
   "fields": {
     "submitted_at": "2021-05-15T05:44:26.411Z",
@@ -8641,6 +9112,26 @@
     "content_area": "PS",
     "main_image": "cst-phs-2009-19/MOTIONDETECTOR.png",
     "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
+  "pk": "7bb8c414-d161-4b33-9a10-59b1bcd54b1e",
+  "fields": {
+    "submitted_at": "2021-05-15T06:31:15.495Z",
+    "modified_at": "2021-05-15T06:31:17.407Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2017-g4-43",
+    "slug": "nysed-els-2017-g4-43",
+    "name": "magnets and paperclips",
+    "test": 26,
+    "language": "EN",
+    "format": "[\"CR\"]",
+    "content_area": "PS",
+    "main_image": "nysed-els-2017-g4-43/ScreenShot2021-05-14at11.30.41PM.png",
+    "requires_attention": false,
     "notes": "",
     "ocr_text": ""
   }
@@ -8983,6 +9474,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-173\nTIMSS-PS-1999-N09\n\nWhich picture shows the best way for the man to balance a ten-liter bucket of\n\nwater and a five-liter bucket of water?\n\n \n\n \n\nDb"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "80d36ebe-dffd-4f92-a41b-239f4fd56a4b",
+  "fields": {
+    "submitted_at": "2021-05-15T06:58:04.099Z",
+    "modified_at": "2021-05-15T06:58:06.788Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2016-g4-38",
+    "slug": "nysed-els-2016-g4-38",
+    "name": "earth motion",
+    "test": 27,
+    "language": "EN",
+    "format": "[\"FT\"]",
+    "content_area": "ES",
+    "main_image": "nysed-els-2016-g4-38/ScreenShot2021-05-14at11.57.35PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -11147,6 +11658,26 @@
 },
 {
   "model": "items.item",
+  "pk": "a1e204ea-50a1-4698-816e-6fb19613d9c5",
+  "fields": {
+    "submitted_at": "2021-05-15T06:28:47.736Z",
+    "modified_at": "2021-05-15T06:28:51.547Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2017-g4-40",
+    "slug": "nysed-els-2017-g4-40",
+    "name": "sea-saw",
+    "test": 26,
+    "language": "EN",
+    "format": "[\"CR\"]",
+    "content_area": "LS",
+    "main_image": "nysed-els-2017-g4-40/ScreenShot2021-05-14at11.28.12PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "a205dda4-d6ff-445c-830a-16398f0444a1",
   "fields": {
     "submitted_at": "2021-01-21T22:32:11.297Z",
@@ -11707,6 +12238,26 @@
 },
 {
   "model": "items.item",
+  "pk": "aac93719-6565-41f0-9e8e-44130253b794",
+  "fields": {
+    "submitted_at": "2021-05-15T06:29:26.606Z",
+    "modified_at": "2021-05-15T06:29:29.896Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2017-g4-41",
+    "slug": "nysed-els-2017-g4-41",
+    "name": "earth rotation",
+    "test": 26,
+    "language": "EN",
+    "format": "[\"CR\"]",
+    "content_area": "ES",
+    "main_image": "nysed-els-2017-g4-41/ScreenShot2021-05-14at11.29.00PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "aaf8604f-d4a5-4112-bfb8-85c9ecb7819b",
   "fields": {
     "submitted_at": "2021-01-21T22:32:11.162Z",
@@ -12000,6 +12551,26 @@
     "format": "[\"MC\"]",
     "content_area": "PS",
     "main_image": "naep-sci-2005-12s11-14-k10590/ScreenShot2021-05-14at2.10.26PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
+  "pk": "af9c2c26-f7ac-4df8-90e9-f5c25066b967",
+  "fields": {
+    "submitted_at": "2021-05-15T06:31:46.978Z",
+    "modified_at": "2021-05-15T06:31:53.999Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2017-g4-45",
+    "slug": "nysed-els-2017-g4-45",
+    "name": "truck",
+    "test": 26,
+    "language": "EN",
+    "format": "[\"CR\"]",
+    "content_area": "PS",
+    "main_image": "nysed-els-2017-g4-45/ScreenShot2021-05-14at11.31.28PM.png",
     "requires_attention": false,
     "notes": "",
     "ocr_text": ""
@@ -12323,6 +12894,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-408\n\nTX-LS-2009-28\n\n \n\n \n\nthe\n\n \n\n \n\nMade from natural herbs, this product is\nabsolutely the best cold remedy on the market.\n\nWe have tested this product on more than\n\nSOO2 patients with colds and have had a\nPO% success rate. Patients family doctors\nnoted that symptoms ol the common cold\n\ndisappeared in three weeks.\n\nThe herbal substances are easily absorbed inka\n\n \n\nNew Herbs\n\nbloodstream with mo lenown sicle elects.\n\n \n\n \n\n \n\n \n\n28 The\n\nadvertisement above is for an herbal cold\n\nremedy. Which of these claims should\nimmediately alert a buyer that New Herbs\nmight not be as effective as claimed?\n\nF\n\nG\n\nThe tests involved more than 5000 cold\npatients.\n\nFamily doctors were consulted during the\ntests.\n\nCold symptoms disappeared in three\nweeks.\n\nThe medicine is made from natural herbs."
+  }
+},
+{
+  "model": "items.item",
+  "pk": "b66d3c01-5651-4ec2-b7ca-551298f1b031",
+  "fields": {
+    "submitted_at": "2021-05-15T06:24:49.594Z",
+    "modified_at": "2021-05-15T06:24:52.452Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2017-g4-31",
+    "slug": "nysed-els-2017-g4-31",
+    "name": "snowfall",
+    "test": 26,
+    "language": "EN",
+    "format": "[\"FT\"]",
+    "content_area": "PS",
+    "main_image": "nysed-els-2017-g4-31/ScreenShot2021-05-14at11.24.27PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -12967,6 +13558,26 @@
 },
 {
   "model": "items.item",
+  "pk": "c319c7e0-80bf-4936-9236-5c9ede9dd535",
+  "fields": {
+    "submitted_at": "2021-05-15T06:22:16.811Z",
+    "modified_at": "2021-05-15T06:22:20.318Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2017-g4-25",
+    "slug": "nysed-els-2017-g4-25",
+    "name": "bulb circuit",
+    "test": 26,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "nysed-els-2017-g4-25/ScreenShot2021-05-14at11.21.54PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "c3cd1b0e-34f7-4626-98da-566c2fbd9dd2",
   "fields": {
     "submitted_at": "2021-01-21T22:32:10.459Z",
@@ -13040,6 +13651,26 @@
     "format": "[\"CR\"]",
     "content_area": "PS",
     "main_image": "naep-sci-2000-4s12-5-k034001/ScreenShot2021-05-14at2.18.20PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
+  "pk": "c4a2cee9-dc6f-4ce9-a8d2-93896c346e32",
+  "fields": {
+    "submitted_at": "2021-05-15T06:41:56.826Z",
+    "modified_at": "2021-05-15T06:41:59.252Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2016-g4-34",
+    "slug": "nysed-els-2016-g4-34",
+    "name": "life cycle",
+    "test": 27,
+    "language": "EN",
+    "format": "[\"FT\"]",
+    "content_area": "LS",
+    "main_image": "nysed-els-2016-g4-34/ScreenShot2021-05-14at11.41.35PM.png",
     "requires_attention": false,
     "notes": "",
     "ocr_text": ""
@@ -13727,6 +14358,26 @@
 },
 {
   "model": "items.item",
+  "pk": "ccd6f31c-72c9-45b9-8214-9b2894f88150",
+  "fields": {
+    "submitted_at": "2021-05-15T06:21:03.079Z",
+    "modified_at": "2021-05-15T06:21:06.492Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2017-g4-20",
+    "slug": "nysed-els-2017-g4-20",
+    "name": "metric ruler",
+    "test": 26,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "nysed-els-2017-g4-20/ScreenShot2021-05-14at11.20.36PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "cd291a40-c61d-4cd4-9c7b-b1dcf77b0365",
   "fields": {
     "submitted_at": "2021-01-21T22:32:11.267Z",
@@ -14347,6 +14998,26 @@
 },
 {
   "model": "items.item",
+  "pk": "d89abe8f-76fa-400f-ac97-d8c8bb953796",
+  "fields": {
+    "submitted_at": "2021-05-15T06:19:31.130Z",
+    "modified_at": "2021-05-15T06:19:37.135Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2017-g4-18",
+    "slug": "nysed-els-2017-g4-18",
+    "name": "dam",
+    "test": 26,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "ES",
+    "main_image": "nysed-els-2017-g4-18/ScreenShot2021-05-14at11.19.10PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "d8cb0f00-2290-4765-a4fa-548d3fa5884d",
   "fields": {
     "submitted_at": "2021-01-21T22:32:09.487Z",
@@ -14543,6 +15214,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-390\nTX-PS-2006-40\n\n60\n\n50\n\n \n\n \n\n40\n\n30\n\n \n\nDistance\n(km)\n\n \n\n20\n\n \n\n10\n\n \n\n \n\n \n\n \n\n \n\noO 414 282 8 4 5\nTime\n\n(h)\n\n40 The graph shows the movement of a car over\ntime. What is the car’s average speed?\nF 10 kilometers per hour\nG 15 kilometers per hour\nH 30 kilometers per hour\nJ 60 kilometers per hour"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "db23e696-9b19-4b43-af33-7f21cfbcaeaa",
+  "fields": {
+    "submitted_at": "2021-05-15T06:24:05.035Z",
+    "modified_at": "2021-05-15T06:24:07.651Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2017-g4-30",
+    "slug": "nysed-els-2017-g4-30",
+    "name": "boxes and mass",
+    "test": 26,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "nysed-els-2017-g4-30/ScreenShot2021-05-14at11.23.41PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -15967,6 +16658,26 @@
 },
 {
   "model": "items.item",
+  "pk": "ee9ba897-8b75-4f09-802b-b45f822f90d6",
+  "fields": {
+    "submitted_at": "2021-05-15T06:40:10.831Z",
+    "modified_at": "2021-05-15T06:40:15.578Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2016-g4-32",
+    "slug": "nysed-els-2016-g4-32",
+    "name": "sunrise",
+    "test": 27,
+    "language": "EN",
+    "format": "[\"FB\"]",
+    "content_area": "ES",
+    "main_image": "nysed-els-2016-g4-32/ScreenShot2021-05-14at11.39.41PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "eec7ceb3-14a1-475b-86d7-c60a6a1b613c",
   "fields": {
     "submitted_at": "2021-01-21T22:32:10.051Z",
@@ -16001,6 +16712,26 @@
     "content_area": "PS",
     "main_image": "cst-phs-2009-21/WAVEENERGY.png",
     "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
+  "pk": "efe9c0c2-0788-412d-977d-c938f1be213a",
+  "fields": {
+    "submitted_at": "2021-05-15T06:38:46.068Z",
+    "modified_at": "2021-05-15T06:38:48.533Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2016-g4-30",
+    "slug": "nysed-els-2016-g4-30",
+    "name": "weather conditions",
+    "test": 27,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "nysed-els-2016-g4-30/ScreenShot2021-05-14at11.38.23PM.png",
+    "requires_attention": false,
     "notes": "",
     "ocr_text": ""
   }
@@ -16083,6 +16814,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-188\nTIMSS-LS-2003-S032707\n\nTwo other species (Species 3 and Species 4) live on Santa Maria Island,\nwhich also has a range of seed types.\n\nWhich of the following graphs shows a range of beak depths for\n\nSpecies 3 and Species 4 that would best insure the survival of both species\n\non Santa Maria Island?\n\n(Circle the letter by the correct graph.)\n\n \n\nPopulation\nPt had fe\n6 So 6\n\nPercentage of\n=\n\noa\n\n2 10\nBeak Depth (mm)\n\n \n\n \n\n \n\n \n\nPercentage of\nPopulation\n\n+\n&\n\nLad\ne\n\nba\n6\n\n—\nSs\n\neo\n\n5 10\nBeak Depth (mm)\n\n \n\n15\n\n \n\n \n\n \n\nExplain why this range of beak depths would be best.\n\n— Species 3\n\n---- Species 4"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "f16e2731-4914-417c-801d-055c15187673",
+  "fields": {
+    "submitted_at": "2021-05-15T06:39:29.851Z",
+    "modified_at": "2021-05-15T06:39:33.518Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2016-g4-31",
+    "slug": "nysed-els-2016-g4-31",
+    "name": "sink or float",
+    "test": 27,
+    "language": "EN",
+    "format": "[\"FT\"]",
+    "content_area": "PS",
+    "main_image": "nysed-els-2016-g4-31/ScreenShot2021-05-14at11.39.10PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -16507,6 +17258,26 @@
 },
 {
   "model": "items.item",
+  "pk": "f7ea7124-4f14-4cdb-b9a5-582999144cf4",
+  "fields": {
+    "submitted_at": "2021-05-15T06:25:25.488Z",
+    "modified_at": "2021-05-15T06:25:28.623Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2017-g4-32",
+    "slug": "nysed-els-2017-g4-32",
+    "name": "rocks and mass",
+    "test": 26,
+    "language": "EN",
+    "format": "[\"FT\"]",
+    "content_area": "PS",
+    "main_image": "nysed-els-2017-g4-32/ScreenShot2021-05-14at11.25.01PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "f8334ae3-7c15-4a7d-8927-8f9569017be3",
   "fields": {
     "submitted_at": "2021-01-21T22:32:11.290Z",
@@ -16680,6 +17451,26 @@
     "format": "[\"CR\", \"FT\"]",
     "content_area": "ES",
     "main_image": "naep-2009-12s10-9-k1586cl/ScreenShot2021-05-14at12.36.38PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
+  "pk": "fc4e12a6-f58d-4868-9ec1-0fe4910daf74",
+  "fields": {
+    "submitted_at": "2021-05-15T06:38:11.833Z",
+    "modified_at": "2021-05-15T06:38:13.863Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "NYSED-ELS-2016-g4-28",
+    "slug": "nysed-els-2016-g4-28",
+    "name": "temperature",
+    "test": 27,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "nysed-els-2016-g4-28/ScreenShot2021-05-14at11.37.53PM.png",
     "requires_attention": false,
     "notes": "",
     "ocr_text": ""
