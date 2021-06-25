@@ -1280,6 +1280,26 @@
 },
 {
   "model": "items.item",
+  "pk": "0b77d67f-e0ab-4989-bd90-af625ae1ef04",
+  "fields": {
+    "submitted_at": "2021-06-25T06:03:45.581Z",
+    "modified_at": "2021-06-25T06:03:48.051Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "STAAR-SCI-G8-2018-13",
+    "slug": "staar-sci-g8-2018-13",
+    "name": "pine forest",
+    "test": 29,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "LS",
+    "main_image": "staar-sci-g8-2018-13/ScreenShot2021-06-24at11.03.13PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "0b964d69-2102-4a20-b49b-68687ed1b14d",
   "fields": {
     "submitted_at": "2021-01-21T22:32:11.410Z",
@@ -1576,6 +1596,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-284\nNY-PS-2007-64/65\n\nBase your answers to questions 64 and 65 on the information and diagram below and on your knowledge\nof science.\n\nA rock hanging from a spring scale is being lowered into a graduated cylinder\ncontaining water. Figure A shows the reading on the spring scale before the rock is low-\nered into the water. Figure B shows the reading on the spring scale when the rock is in\nthe water. The reading on the spring scale in figure A is greater than the reading on the\nspring scale in figure B.\n\n \n\n7.) 11\n\\ | }\n\n \n\nSymL\n125\n\n100\n75\n\n \n\n \n\n \n\n \n\n \n\n \n\n64 Explain why the spring scale shows a greater reading in figure A than in figure B. [1]\n\n \n\n \n\n \n\n65 Explain why placing the rock in the water causes the water level to rise. [1]"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "0edc382a-1ccd-49aa-b2c6-a3cac4e2d4c1",
+  "fields": {
+    "submitted_at": "2021-06-25T06:10:05.333Z",
+    "modified_at": "2021-06-25T06:10:07.761Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "STAAR-SCI-G8-2018-30",
+    "slug": "staar-sci-g8-2018-30",
+    "name": "earth and moon",
+    "test": 29,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "ES",
+    "main_image": "staar-sci-g8-2018-30/ScreenShot2021-06-24at11.09.42PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -1936,6 +1976,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-183\nTIMSS-ES-2003-S012027\n\nThe table gives the temperature at a certain place at different times of the\nday for three days.\n\n \n\n \n\nMonday 15°C 17°C 20°C | 21°C | 19°C\nTuesday 15°C 15°C 15°C 5C 4°C\nWednesday | 8°C 10°C 14°C | 14°C | 13°C\n\n \n\n \n\n \n\n \n\n \n\nMonday morning\n\n(B) Monday afternoon\n(© Tuesday morning\n\n(BD) Tuesday afternoon\n(©) Wednesday afternoon"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "147c4fae-2d88-47d7-b6a9-ee144a07cd15",
+  "fields": {
+    "submitted_at": "2021-06-25T06:13:19.105Z",
+    "modified_at": "2021-06-25T06:13:21.740Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "STAAR-SCI-G8-2018-39",
+    "slug": "staar-sci-g8-2018-39",
+    "name": "energy pyramid",
+    "test": 29,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "LS",
+    "main_image": "staar-sci-g8-2018-39/ScreenShot2021-06-24at11.12.56PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -2436,6 +2496,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-0743\nTJ-LS-2009-28\n28. 某同学为探究蚀头在口有中的变化，进行了如下实验 (8 分)\n局)取新鲜的蚀头，切成大小相同的 A、吾 两小块，分别用刀细细地切碎、拌匀 -\n包将蚀头碎层 A 与 2 毫升唾滚放入甲试管中充分搅拌:将馒\n头碎导了与2毫升清水放入乙试管中充分搅拌〈如右图)。            2并\n唾\n甲 忒\n\n2毫升\n轿将两支试管一起放入 37C左右的温水中。                                清水\n\n二10 分钟后，同时取出两支试管，各滴加 2 滴栈液，摇匀\n\n请根据上述过程分析回答:\n\n《1) 观察试管中的颜色变化，可以看到 试管中不变蓝，原因是唾液演粉酶\n对          具有消化作用。\n\n(2) 乙试管在实验中起         作用。\n\n(3) 实验中37C左右的水温模拟了人体                 中的温度。"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "1acfd4f1-da3a-44ce-8c43-13dbcf67c258",
+  "fields": {
+    "submitted_at": "2021-06-25T06:04:25.780Z",
+    "modified_at": "2021-06-25T06:04:27.864Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "STAAR-SCI-G8-2018-14",
+    "slug": "staar-sci-g8-2018-14",
+    "name": "aerialist",
+    "test": 29,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "staar-sci-g8-2018-14/ScreenShot2021-06-24at11.03.53PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -3120,6 +3200,26 @@
 },
 {
   "model": "items.item",
+  "pk": "260193f8-8d3d-49e9-b763-9efe33007a15",
+  "fields": {
+    "submitted_at": "2021-06-25T06:11:11.797Z",
+    "modified_at": "2021-06-25T06:11:15.745Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "STAAR-SCI-G8-2018-32",
+    "slug": "staar-sci-g8-2018-32",
+    "name": "block pulling",
+    "test": 29,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "staar-sci-g8-2018-32/ScreenShot2021-06-24at11.10.51PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "270096c5-37cf-4c7d-91a9-6bf1cc9fa521",
   "fields": {
     "submitted_at": "2021-02-10T21:19:56.025Z",
@@ -3735,6 +3835,26 @@
     "main_image": "naep-sci-2000-12s9-5-k049905/ScreenShot2021-05-14at3.09.49PM.png",
     "requires_attention": false,
     "notes": "The stem is shared by multiple items.",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
+  "pk": "311aaf8a-2cf7-45da-bd25-85e4f51109a7",
+  "fields": {
+    "submitted_at": "2021-06-25T06:11:42.902Z",
+    "modified_at": "2021-06-25T06:11:44.911Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "STAAR-SCI-G8-2018-33",
+    "slug": "staar-sci-g8-2018-33",
+    "name": "topographic map",
+    "test": 29,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "ES",
+    "main_image": "staar-sci-g8-2018-33/ScreenShot2021-06-24at11.11.23PM.png",
+    "requires_attention": false,
+    "notes": "",
     "ocr_text": ""
   }
 },
@@ -4633,6 +4753,26 @@
     "format": "[\"CR\", \"FI\"]",
     "content_area": "PS",
     "main_image": "naep-sci-2000-4s21-9-k040301/ScreenShot2021-05-14at3.03.06PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
+  "pk": "3daba116-77fc-43cb-a788-c4ec299dec54",
+  "fields": {
+    "submitted_at": "2021-06-25T06:07:13.914Z",
+    "modified_at": "2021-06-25T06:07:16.339Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "STAAR-SCI-G8-2018-23",
+    "slug": "staar-sci-g8-2018-23",
+    "name": "convection currents",
+    "test": 29,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "ES",
+    "main_image": "staar-sci-g8-2018-23/ScreenShot2021-06-24at11.06.46PM.png",
     "requires_attention": false,
     "notes": "",
     "ocr_text": ""
@@ -6880,6 +7020,26 @@
 },
 {
   "model": "items.item",
+  "pk": "58ee7bfe-e818-4528-b34d-f99109104c94",
+  "fields": {
+    "submitted_at": "2021-06-25T06:00:32.259Z",
+    "modified_at": "2021-06-25T06:00:34.744Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "STAAR-SCI-G8-2018-4",
+    "slug": "staar-sci-g8-2018-4",
+    "name": "tea kettle",
+    "test": 29,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "staar-sci-g8-2018-4/ScreenShot2021-06-24at11.00.07PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "591519cc-82df-4e3f-9db3-a3ed1c5add7c",
   "fields": {
     "submitted_at": "2021-01-21T22:32:11.761Z",
@@ -7560,6 +7720,26 @@
 },
 {
   "model": "items.item",
+  "pk": "60ecaa5e-2c59-4112-be85-e9be176b33f5",
+  "fields": {
+    "submitted_at": "2021-06-25T06:05:58.565Z",
+    "modified_at": "2021-06-25T06:06:00.630Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "STAAR-SCI-G8-2018-21",
+    "slug": "staar-sci-g8-2018-21",
+    "name": "marble",
+    "test": 29,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "staar-sci-g8-2018-21/ScreenShot2021-06-24at11.05.37PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "60f7c6b9-df19-4caf-b31a-13a5c949ea5c",
   "fields": {
     "submitted_at": "2021-02-16T21:39:21.269Z",
@@ -8000,6 +8180,26 @@
 },
 {
   "model": "items.item",
+  "pk": "68920b95-d9c5-4dd8-8578-1e1fa879eb5f",
+  "fields": {
+    "submitted_at": "2021-06-25T06:12:46.418Z",
+    "modified_at": "2021-06-25T06:12:48.925Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "STAAR-SCI-G8-2018-37",
+    "slug": "staar-sci-g8-2018-37",
+    "name": "physics teacher",
+    "test": 29,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "staar-sci-g8-2018-37/ScreenShot2021-06-24at11.12.25PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "6893882d-ff53-40ec-b5a6-4af46ea729b2",
   "fields": {
     "submitted_at": "2021-06-25T05:43:57.517Z",
@@ -8256,6 +8456,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-065\n\nTJ-ES-2010-27-2\n\n中东\n\n \n\n出口量   图 10\n\n人@)用图 10资料, 分别说出中东石油的生产、出口情况"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "6d226f7d-6d97-4956-8c00-80d97b8499bc",
+  "fields": {
+    "submitted_at": "2021-06-25T06:01:47.607Z",
+    "modified_at": "2021-06-25T06:01:50.540Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "STAAR-SCI-G8-2018-8",
+    "slug": "staar-sci-g8-2018-8",
+    "name": "body system",
+    "test": 29,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "LS",
+    "main_image": "staar-sci-g8-2018-8/ScreenShot2021-06-24at11.01.29PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -8600,6 +8820,26 @@
 },
 {
   "model": "items.item",
+  "pk": "6faadb71-145b-4abd-bcb1-f90f51088644",
+  "fields": {
+    "submitted_at": "2021-06-25T06:02:29.905Z",
+    "modified_at": "2021-06-25T06:02:32.404Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "STAAR-SCI-G8-2018-9",
+    "slug": "staar-sci-g8-2018-9",
+    "name": "moving fridge",
+    "test": 29,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "staar-sci-g8-2018-9/ScreenShot2021-06-24at11.01.56PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "6fd7fd76-3e5e-4c70-b026-2a3c2fb53be8",
   "fields": {
     "submitted_at": "2021-01-21T22:32:10.196Z",
@@ -8854,6 +9094,26 @@
     "content_area": "LS",
     "main_image": "mcas-scitecheng-61/Starfish.png",
     "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
+  "pk": "72cc6be1-9422-4406-92ed-bb16149d28d6",
+  "fields": {
+    "submitted_at": "2021-06-25T06:01:18.805Z",
+    "modified_at": "2021-06-25T06:01:22.758Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "STAAR-SCI-G8-2018-7",
+    "slug": "staar-sci-g8-2018-7",
+    "name": "earth rotation",
+    "test": 29,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "ES",
+    "main_image": "staar-sci-g8-2018-7/ScreenShot2021-06-24at11.00.44PM.png",
+    "requires_attention": false,
     "notes": "",
     "ocr_text": ""
   }
@@ -9200,6 +9460,26 @@
 },
 {
   "model": "items.item",
+  "pk": "786428e4-6584-40b9-8713-2dd31950c5e1",
+  "fields": {
+    "submitted_at": "2021-06-25T06:09:34.172Z",
+    "modified_at": "2021-06-25T06:09:36.824Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "STAAR-SCI-G8-2018-29",
+    "slug": "staar-sci-g8-2018-29",
+    "name": "house sparrow",
+    "test": 29,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "LS",
+    "main_image": "staar-sci-g8-2018-29/ScreenShot2021-06-24at11.09.12PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "78a4323b-8ff2-4451-b991-687701d5514e",
   "fields": {
     "submitted_at": "2021-02-16T21:35:46.787Z",
@@ -9380,6 +9660,26 @@
 },
 {
   "model": "items.item",
+  "pk": "7b67433d-cfe3-4f3a-a475-acb98230e9c9",
+  "fields": {
+    "submitted_at": "2021-06-25T06:10:43.471Z",
+    "modified_at": "2021-06-25T06:10:45.729Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "STAAR-SCI-G8-2018-31",
+    "slug": "staar-sci-g8-2018-31",
+    "name": "classification",
+    "test": 29,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "staar-sci-g8-2018-31/ScreenShot2021-06-24at11.10.13PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "7b8015d5-95c6-4092-a484-9380c0b06c04",
   "fields": {
     "submitted_at": "2021-02-16T21:00:42.830Z",
@@ -9436,6 +9736,46 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-020\nBJ-PS-2010-23\n\n23. 如图 10 甲所示，底面积为 80cm2 的圆简形容器内装有适量\n的液体，放在水平桌面上;底面积为“60cmz 的圆柱形物\n体4 悬挂在细强的下端静止时,，细绳对物体苇 的拉力为\n王。将物体 4浸没在圆简形容恬内的液体中，静止时，\n容器内的液面升高了 7.5cmy 如图 10 乙所示，此时细强\n对物体 4 的拉力为 ，物体 4 上表面到液面的距高为\n加。然后，将物体4 坚直疝上移动六，物体4静止时，\n细绳对物体 4 的拉力为 瓦。已知丽与囊之差为 7.2N，\n严与 肪之比为 5: 8，思为 3cm，刀为 xm。 不计绳重，\n引取 10Nkg。则物体4 的密度是 kgms。"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "7cc926c3-d70d-47c5-bbdf-40eae1dd3c58",
+  "fields": {
+    "submitted_at": "2021-06-25T06:07:48.765Z",
+    "modified_at": "2021-06-25T06:07:51.071Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "STAAR-SCI-G8-2018-24",
+    "slug": "staar-sci-g8-2018-24",
+    "name": "Darwin's finches",
+    "test": 29,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "LS",
+    "main_image": "staar-sci-g8-2018-24/ScreenShot2021-06-24at11.07.24PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
+  "pk": "7cf50463-807a-48e9-bd33-2cbed71607b6",
+  "fields": {
+    "submitted_at": "2021-06-25T06:09:03.273Z",
+    "modified_at": "2021-06-25T06:09:05.463Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "STAAR-SCI-G8-2018-28",
+    "slug": "staar-sci-g8-2018-28",
+    "name": "chemical reaction",
+    "test": 29,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "staar-sci-g8-2018-28/ScreenShot2021-06-24at11.08.26PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -9596,6 +9936,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-131\nCQ-E9-2007-0\n\n读右地形图回答6一7题\n\n6， 图示范围主要地形是\n\n \n\nA，山地\nB.，匡陵\nC.， 盆地\nD，高原\n7清关河的大致流向是\nA，自北向南流\nB，自南向北流\ncC，自东北向西南流\n\n \n\n \n\n \n\n \n\n \n\n“250 ”等高线(米)   、 河流    0 6千米\n\nD，自西往东六"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "7f522fef-f0e1-4a5a-ab7b-3390009a64a4",
+  "fields": {
+    "submitted_at": "2021-06-25T06:13:52.370Z",
+    "modified_at": "2021-06-25T06:14:02.118Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "STAAR-SCI-G8-2018-40",
+    "slug": "staar-sci-g8-2018-40",
+    "name": "woo block",
+    "test": 29,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "staar-sci-g8-2018-40/ScreenShot2021-06-24at11.13.29PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -10714,6 +11074,26 @@
     "content_area": "LS",
     "main_image": "mcas-scitecheng-45/LifeStage.png",
     "requires_attention": true,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
+  "pk": "8ed43dc2-c20a-408f-9d68-4469725345a3",
+  "fields": {
+    "submitted_at": "2021-06-25T06:06:38.313Z",
+    "modified_at": "2021-06-25T06:06:40.445Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "STAAR-SCI-G8-2018-22",
+    "slug": "staar-sci-g8-2018-22",
+    "name": "chemical reaction",
+    "test": 29,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "staar-sci-g8-2018-22/ScreenShot2021-06-24at11.06.05PM.png",
+    "requires_attention": false,
     "notes": "",
     "ocr_text": ""
   }
@@ -11940,6 +12320,26 @@
 },
 {
   "model": "items.item",
+  "pk": "a14166f5-a11b-4405-a69e-de1ece0dc004",
+  "fields": {
+    "submitted_at": "2021-06-25T06:04:56.440Z",
+    "modified_at": "2021-06-25T06:04:59.149Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "STAAR-SCI-G8-2018-15",
+    "slug": "staar-sci-g8-2018-15",
+    "name": "atomic models",
+    "test": 29,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "PS",
+    "main_image": "staar-sci-g8-2018-15/ScreenShot2021-06-24at11.04.33PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "a15ecd40-676f-4a32-99b6-e557f56250c4",
   "fields": {
     "submitted_at": "2021-01-21T22:32:08.689Z",
@@ -12953,6 +13353,26 @@
     "format": "[\"CR\"]",
     "content_area": "PS",
     "main_image": "nysed-els-2017-g4-45/ScreenShot2021-05-14at11.31.28PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
+  "pk": "afd974dd-e335-4b08-b27d-c21f9a526472",
+  "fields": {
+    "submitted_at": "2021-06-25T06:12:16.252Z",
+    "modified_at": "2021-06-25T06:12:18.571Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "STAAR-SCI-G8-2018-35",
+    "slug": "staar-sci-g8-2018-35",
+    "name": "stars",
+    "test": 29,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "ES",
+    "main_image": "staar-sci-g8-2018-35/ScreenShot2021-06-24at11.11.50PM.png",
     "requires_attention": false,
     "notes": "",
     "ocr_text": ""
@@ -13996,6 +14416,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-260\nNY-LS-2007-11\n\n11 The diagram below shows information about the\nreproduction and development of a rabbit.\n\ne »\n‘\n“Or\n\n©\n\nOffspring\n\n(Not drawn to scale)\nWhich letter in the diagram represents fertiliza-\ntion?\n\n(1) A (3) C\n(2) B (4) D"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "c42d972b-593b-4ee5-9f80-73315da71f9d",
+  "fields": {
+    "submitted_at": "2021-06-25T06:08:18.182Z",
+    "modified_at": "2021-06-25T06:08:20.990Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "STAAR-SCI-G8-2018-27",
+    "slug": "staar-sci-g8-2018-27",
+    "name": "tectonic plates",
+    "test": 29,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "ES",
+    "main_image": "staar-sci-g8-2018-27/ScreenShot2021-06-24at11.07.57PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
@@ -17900,6 +18340,26 @@
 },
 {
   "model": "items.item",
+  "pk": "f99e7f61-6a5b-4c20-8546-66d25534412c",
+  "fields": {
+    "submitted_at": "2021-06-25T06:03:01.275Z",
+    "modified_at": "2021-06-25T06:03:04.283Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "STAAR-SCI-G8-2018-12",
+    "slug": "staar-sci-g8-2018-12",
+    "name": "Andes range",
+    "test": 29,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "ES",
+    "main_image": "staar-sci-g8-2018-12/ScreenShot2021-06-24at11.02.39PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
+  }
+},
+{
+  "model": "items.item",
   "pk": "f9b1401f-e6b9-4601-95c6-fd2f2c7eb31c",
   "fields": {
     "submitted_at": "2021-03-13T02:22:29.569Z",
@@ -18016,6 +18476,26 @@
     "requires_attention": false,
     "notes": "",
     "ocr_text": "DID-359\nNY-LS-2010-3\n\n3 The graph below represents the relationship between the amount of spring rainfall recorded at a pond and\nthe number of frogs in that pond. The data were collected over five spring seasons.\n\nSpring Rainfall and Number of Frogs\n\n \n\n80\n70\n\n60 >t\n50\n40 a |\n\n30 a\n20 WA\n\n10\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nNumber of Frogs in the Pond\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n0 5 10 15 20 25\nAmount of Spring Rainfall (cm)\n\nWhat is the difference between the number of frogs in the pond when the rainfall was 5 cm and when the\nrainfall was 20 cm?\n\n(1) 20 (3) 50\n\n(2) 40 (4) 60"
+  }
+},
+{
+  "model": "items.item",
+  "pk": "fb660f3d-6242-4ae8-9e5f-2c49b85185d4",
+  "fields": {
+    "submitted_at": "2021-06-25T06:05:25.915Z",
+    "modified_at": "2021-06-25T06:05:29.035Z",
+    "submitted_by": "081326cc-3a46-453d-b96e-9f546bf1c057",
+    "item_id": "STAAR-SCI-G8-2018-16",
+    "slug": "staar-sci-g8-2018-16",
+    "name": "star distance",
+    "test": 29,
+    "language": "EN",
+    "format": "[\"MC\"]",
+    "content_area": "ES",
+    "main_image": "staar-sci-g8-2018-16/ScreenShot2021-06-24at11.05.04PM.png",
+    "requires_attention": false,
+    "notes": "",
+    "ocr_text": ""
   }
 },
 {
