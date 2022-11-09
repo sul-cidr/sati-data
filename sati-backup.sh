@@ -89,7 +89,7 @@ ENV_FILE=$(readlink -f "${ENV_FILE:="${COMPOSE_PROJ_DIR}/.env"}");
 [ -e "${ENV_FILE}" ] || { echo ".env file not found at ${ENV_FILE}!" >&2; exit 1; }
 
 log "Dumping data from the Users app to ${BACKUP_DIR}/users.json";
-docker-compose \
+docker compose \
   --env-file "${ENV_FILE}" \
   --project-directory "${COMPOSE_PROJ_DIR}" \
   --file "${COMPOSE_FILE}" \
@@ -98,7 +98,7 @@ docker-compose \
   > "${BACKUP_DIR}/users.json";
 
 log "Dumping data from the Items app to ${BACKUP_DIR}/items.json";
-docker-compose \
+docker compose \
   --env-file "${ENV_FILE}" \
   --project-directory "${COMPOSE_PROJ_DIR}" \
   --file "${COMPOSE_FILE}" \
