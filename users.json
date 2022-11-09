@@ -35,7 +35,7 @@
     "fields": {
       "password": "pbkdf2_sha256$216000$g4MsOLo5Mw1U$YmjJCLWzUARLChgLDbuZB9hHoM4bzWr5w3/AVrPsABk=",
       "is_superuser": true,
-      "first_name": "",
+      "first_name": "Simon",
       "last_name": "",
       "is_staff": true,
       "is_active": true,
