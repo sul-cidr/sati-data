@@ -31,6 +31,21 @@
   },
   {
     "model": "users.user",
+    "pk": "4354bbe2-17e0-4963-9962-d65d54114660",
+    "fields": {
+      "password": "pbkdf2_sha256$216000$PkHESGyRNKkw$D3Pt6zaSRVH9z97ADgSaum4o8KsKaoF7m6t5sWbW3Qw=",
+      "is_superuser": true,
+      "first_name": "",
+      "last_name": "",
+      "is_staff": true,
+      "is_active": true,
+      "email": "rkap786@stanford.edu",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.user",
     "pk": "446730b4-4d65-497c-b7e9-12a4fcee38d0",
     "fields": {
       "password": "pbkdf2_sha256$216000$g4MsOLo5Mw1U$YmjJCLWzUARLChgLDbuZB9hHoM4bzWr5w3/AVrPsABk=",
